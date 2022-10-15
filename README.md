@@ -2,7 +2,7 @@
 
 Flask web app that boosts the rationality of its users when buying and selling stocks.
 
-### Overview
+## Project Overview
 
 The overall purpose of this project is to use emotions to aid investing decisions. The project has two key components.
 
@@ -10,7 +10,7 @@ The first component predicts a stock price's movement for the next week. Sentime
 
 The second component is designed to aid an investor's rationality. Each investor makes an account in our system, which stores their basic personal information, tolerance for risk and current portfolio. Whenever the investor wishes to make a transaction, they must input their reasoning and current mood. Sentiment analysis is done on these inputs to determine whether the investor is in the right emotional headspace to make a sound decision. Furthermore, the investor is presented with graphics of their porfolio's projected movement with and without accounting for the transaction in question (where this projected movement is based on sentiment analysis of relevant Twitter and Reddit data). Lastly, the risk of their portfolio with the transaction is computed, and compared to their tolerance for risk (stored on their profile). All of these analyses are output to the investor to boost their rationality and emotional awareness before they make their final decision.
 
-### Details
+## Project Details
 
 This notebook serves as a simple proof of concept. It begins with the creation of a user in our database, complete with their risk tolerance and current portfolio. Risk tolerance is an integer between 1 and 5 inclusive, where 1 means "losing this money impacts my living standard", and 5 means "I am happy to lose all of this money". We go through the process of purchasing a stock of interest.
 
