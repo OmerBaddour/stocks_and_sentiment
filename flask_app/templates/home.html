@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="content-section">
+    <h1>Welcome back, {{ first_name }}.</h1>
+    <div class="border-top pt-3">
+        Your current portfolio over the last 30 days:<br>
+        <img src='data:image/png;base64,{{ portfolio_history_img_html }}'/>
+     </div>
+        
+</div>
+<div class="border-top pt-3">
+    Click <a class="ml-2" href="{{ url_for('do_transaction') }}">here</a> to perform a transaction.
+</div>
+{% endblock %}

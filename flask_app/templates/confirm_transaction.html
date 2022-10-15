@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="content-section">
+    <div class="border-top pt-3">
+        Your <b>current</b> portfolio over the last 7 days, and its projected price movement over the next 7 days:<br>
+        <img src='data:image/png;base64,{{ current_portfolio_image }}'/>
+     </div>
+    <div class="border-top pt-3">
+        Your portfolio <b>after the transaction</b> over the last 7 days, and its projected price movement over the next 7 days:<br>
+        <img src='data:image/png;base64,{{ next_portfolio_image }}'/>
+    </div>
+    <br>
+    <form method="POST" action="">
+        {{ form.hidden_tag() }}
+        <div class="form-group">
+            {{ form.confirm(class="btn btn-outline-info") }}
+            {{ form.abort(class="btn btn-outline-info") }}
+        </div>
+    </form>
+</div>
+{% endblock %}

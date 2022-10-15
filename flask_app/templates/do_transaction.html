@@ -1,0 +1,88 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="content-section">
+    <form method="POST" action="">
+        {{ form.hidden_tag() }}
+        <fieldset class="form-group">
+            <legend class="border-bottom mb-4">Do Transaction</legend>
+            <div class="form-group">
+                {{ form.stock_name.label(class="form-control-label") }}
+                {% if form.stock_name.errors %}
+                    {{ form.stock_name(class="form-control form-control-lg is-invalid") }}
+                    <div class="invalid-feedback">
+                        {% for error in form.stock_name.errors %}
+                            <span>{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    {{ form.stock_name(class="form-control form-control-lg") }}
+                {% endif %}
+            </div>
+            <div class="form-group">
+                {{ form.ticker.label(class="form-control-label") }}
+                {% if form.ticker.errors %}
+                    {{ form.ticker(class="form-control form-control-lg is-invalid") }}
+                    <div class="invalid-feedback">
+                        {% for error in form.ticker.errors %}
+                            <span>{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    {{ form.ticker(class="form-control form-control-lg") }}
+                {% endif %}
+            </div>
+            <div class="form-group">
+                {{ form.quantity.label(class="form-control-label") }}
+                {% if form.quantity.errors %}
+                    {{ form.quantity(class="form-control form-control-lg is-invalid") }}
+                    <div class="invalid-feedback">
+                        {% for error in form.quantity.errors %}
+                            <span>{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    {{ form.quantity(class="form-control form-control-lg") }}
+                {% endif %}
+            </div>
+            <div class="form-group">
+                {{ form.current_mood.label(class="form-control-label") }}
+                {% if form.current_mood.errors %}
+                    {{ form.current_mood(class="form-control form-control-lg is-invalid") }}
+                    <div class="invalid-feedback">
+                        {% for error in form.current_mood.errors %}
+                            <span>{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    {{ form.current_mood(class="form-control form-control-lg") }}
+                {% endif %}
+            </div>
+            <div class="form-group">
+                {{ form.reasoning.label(class="form-control-label") }}
+                {% if form.reasoning.errors %}
+                    {{ form.reasoning(class="form-control form-control-lg is-invalid") }}
+                    <div class="invalid-feedback">
+                        {% for error in form.reasoning.errors %}
+                            <span>{{ error }}</span>
+                        {% endfor %}
+                    </div>
+                {% else %}
+                    {{ form.reasoning(class="form-control form-control-lg") }}
+                {% endif %}
+            </div>
+        </fieldset>
+        <div class="form-group">
+            {{ form.buy(class="btn btn-outline-info") }}
+            {{ form.sell(class="btn btn-outline-info") }}
+        </div>
+    </form>
+</div>
+<div class="border-top pt-3">
+    <b>Note:</b> This may take some time, since Reddit and Twitter posts are being scraped to estimate future portfolio price changes.<br><br>
+</div>
+<div class="border-top pt-3">
+    <small class="text-muted">
+        Done? <a class="ml-2" href="{{ url_for('home') }}">Continue to Home</a>
+    </small>
+</div>
+{% endblock %}

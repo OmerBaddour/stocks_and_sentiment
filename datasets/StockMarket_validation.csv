@@ -1,0 +1,920 @@
+,score,title,ups,downs,num_comments,selftext,processed_title_and_text,vectorized_processed_title_and_text,rounded_score
+920,4,Merkel Says No European Shared Liability As Long As She Lives,5,1,0,,"['merkel', 'say', 'no', 'european', 'share', 'liabil', 'as', 'long', 'as', 'she', 'live', 'nan']",[0 0 0 ... 0 0 0],5
+525,5,Marc Andreessen probably won’t convince anyone to invest in tech stocks,5,0,0,,"['marc', 'andreessen', 'probabl', '’', 'convinc', 'anyon', 'invest', 'tech', 'stock', 'nan']",[0 0 0 ... 0 0 0],5
+567,5,$QQQ: Short setup for next week.,5,0,1,,"['$', 'qqq', ':', 'short', 'setup', 'next', 'week', '.', 'nan']",[0 1 0 ... 0 0 0],5
+657,4,Boeing vs. Caterpillar: Which Dow Stock's Dividend Dominates?,13,9,0,,"['boe', 'vs.', 'caterpillar', ':', 'which', 'dow', 'stock', ""'s"", 'dividend', 'domin', '?', 'nan']",[0 0 0 ... 0 0 0],5
+633,5,"$1,500 to invest as of tomorrow - Not completely new to the game, but need some help/tips.",5,0,7,"Hey -- I've invested a couple times before with small amounts...no more then $200-300 tops. It went..alright. But now i deposited $1,500 of my disposable income into mah sharebuilder.
+
+I am eyeing MJNA and really am considering getting like 20,000 shares @ $0.07 - I've been watching that symbol for quite a while now and remember seeing it at like $0.35. 
+
+Does anyone have any advice, tips on what to invest in, etc? I am looking to be more of an active ""day"" trader (a few times a week at most), I want more risk. I know it's easy to make 20% in one day...it's also just as easy to lose 20% in  one day.
+
+Thanks","['$', '1,500', 'invest', 'tomorrow', '-', 'not', 'complet', 'new', 'game', ',', 'need', 'help/tip', '.', 'hey', '--', 'i', ""'ve"", 'invest', 'coupl', 'time', 'small', 'amount', '...', '$', '200-300', 'top', '.', 'it', 'went', '..', 'alright', '.', 'but', 'deposit', '$', '1,500', 'dispos', 'incom', 'mah', 'sharebuild', '.', 'i', 'eye', 'mjna', 'realli', 'consid', 'get', 'like', '20,000', 'share', '@', '$', '0.07', '-', 'i', ""'ve"", 'watch', 'symbol', 'quit', 'rememb', 'see', 'like', '$', '0.35', '.', 'doe', 'anyon', 'advic', ',', 'tip', 'invest', ',', 'etc', '?', 'i', 'look', 'activ', '``', 'day', ""''"", 'trader', '(', 'time', 'week', ')', ',', 'i', 'want', 'risk', '.', 'i', 'know', ""'s"", 'easi', 'make', '20', '%', 'one', 'day', '...', ""'s"", 'also', 'easi', 'lose', '20', '%', 'one', 'day', '.', 'thank']",[4 7 0 ... 0 0 0],5
+429,6,Jobless Claims Will Have QE3 Implications,8,2,2,,"['jobless', 'claim', 'will', 'have', 'qe3', 'implic', 'nan']",[0 0 0 ... 0 0 0],5
+857,3,"EURUSD&gt;1.30, EURCHF back up, ES slightly up, Energy, Metals, also up... Looks like a Risk on Week",4,1,2,"BAC Breaking $10?
+ES_F gonna take out 1450?
+
+Bull spreads on BAC &amp; SPY...
+","['eurusd', '&', 'gt', ';', '1.30', ',', 'eurchf', 'back', ',', 'es', 'slightli', ',', 'energi', ',', 'metal', ',', 'also', '...', 'look', 'like', 'risk', 'week', 'bac', 'break', '$', '10', '?', 'es_f', 'gon', 'na', 'take', '1450', '?', 'bull', 'spread', 'bac', '&', 'amp', ';', 'spi', '...']",[5 0 0 ... 0 0 0],5
+712,4,$PFE: Short Idea,5,1,10,,"['$', 'pfe', ':', 'short', 'idea', 'nan']",[0 0 0 ... 0 0 0],5
+174,9,Is AAPL going to eat Pandora's pie?,14,5,20,,"['is', 'aapl', 'go', 'eat', 'pandora', ""'s"", 'pie', '?', 'nan']",[0 0 0 ... 0 0 0],10
+604,4,"RIMM misses, more bad news",5,1,2,"From the wire:
+
+""Research in Motion says challenges are significant. Company says there is weakness in US smartphone business. RIM says it is reviewing licensing, other ways to leverage the company. The company is searching for a single COO. Balsillie resigns from the board.  Jim Rowan  will leave the company. Yach retires. CTO will retire. Company will not give quantitative guidance. RIM says challenges are, overall, significant.""
+
+As of right now, stock is halted. Halt will be lifted at 5:10pm Eastern.","['rimm', 'miss', ',', 'bad', 'news', 'from', 'wire', ':', ""''"", 'research', 'motion', 'say', 'challeng', 'signific', '.', 'compani', 'say', 'weak', 'us', 'smartphon', 'busi', '.', 'rim', 'say', 'review', 'licens', ',', 'way', 'leverag', 'compani', '.', 'the', 'compani', 'search', 'singl', 'coo', '.', 'balsilli', 'resign', 'board', '.', 'jim', 'rowan', 'leav', 'compani', '.', 'yach', 'retir', '.', 'cto', 'retir', '.', 'compani', 'give', 'quantit', 'guidanc', '.', 'rim', 'say', 'challeng', ',', 'overal', ',', 'signific', '.', ""''"", 'as', 'right', ',', 'stock', 'halt', '.', 'halt', 'lift', '5:10pm', 'eastern', '.']",[ 5 12  0 ...  0  0  0],5
+867,3,"Wall Street Breakfast: Must-Know News November 1, 2012",4,1,0,,"['wall', 'street', 'breakfast', ':', 'must-know', 'new', 'novemb', '1', ',', '2012', 'nan']",[1 0 0 ... 0 0 0],5
+449,7,Market euphoria over Spanish bank bailout fizzles,8,1,11,,"['market', 'euphoria', 'spanish', 'bank', 'bailout', 'fizzl', 'nan']",[0 0 0 ... 0 0 0],5
+846,3,Thoughts on the low volume breakout of Russell 2000?,4,1,1,"Retest of ~860 level is inevitable in my opinion. But what then? Will any catalysts besides the debt ceiling put a damper on the slow Fed driven rally to infinity? 
+
+","['thought', 'low', 'volum', 'breakout', 'russel', '2000', '?', 'retest', '~860', 'level', 'inevit', 'opinion', '.', 'but', '?', 'will', 'catalyst', 'besid', 'debt', 'ceil', 'put', 'damper', 'slow', 'fed', 'driven', 'ralli', 'infin', '?']",[0 1 0 ... 0 0 0],5
+580,5,Fed extends 'Twist' program to drive rates lower - Yahoo! Finance,6,1,2,,"['fed', 'extend', ""'twist"", ""'"", 'program', 'drive', 'rate', 'lower', '-', 'yahoo', '!', 'financ', 'nan']",[0 0 0 ... 0 0 0],5
+76,14,"U.S. Stocks Rise as Home Prices, Consumer Confidence Jump",16,2,0,,"['u.s.', 'stock', 'rise', 'home', 'price', ',', 'consum', 'confid', 'jump', 'nan']",[1 0 0 ... 0 0 0],15
+371,6,Mark's Video - Basic Analysis - 7/14/2013,6,0,1,,"['mark', ""'s"", 'video', '-', 'basic', 'analysi', '-', '7/14/2013', 'nan']",[0 0 0 ... 0 0 0],5
+720,5,"Going long S&amp;P futures here at 1335, stop just below lows of the day",6,1,8,"Taking a shot at ES mini futures here 1335, I need to see some support hold in the 1333 area so Im going to risk 2-3 points of downside.
+
+Financial stocks have improved a bit, C, JPM and GS not doing too horribly, perhaps they can turn them around today.
+
+AAPL not cooperating, tech has been very weak in recent sessions.
+
+Market internals are flat so this can go either way here since there is no clear bias, but 4 of the 12 major sectors are in the red, so bias is slightly to the bears at the moment.","['go', 'long', 's', '&', 'amp', ';', 'p', 'futur', '1335', ',', 'stop', 'low', 'day', 'take', 'shot', 'es', 'mini', 'futur', '1335', ',', 'i', 'need', 'see', 'support', 'hold', '1333', 'area', 'im', 'go', 'risk', '2-3', 'point', 'downsid', '.', 'financi', 'stock', 'improv', 'bit', ',', 'c', ',', 'jpm', 'gs', 'horribl', ',', 'perhap', 'turn', 'around', 'today', '.', 'aapl', 'cooper', ',', 'tech', 'weak', 'recent', 'session', '.', 'market', 'intern', 'flat', 'go', 'either', 'way', 'sinc', 'clear', 'bia', ',', '4', '12', 'major', 'sector', 'red', ',', 'bia', 'slightli', 'bear', 'moment', '.']",[8 4 0 ... 0 0 0],5
+136,9,THE IDIOT-MAKER RALLY: Check Out All Of The Gurus Made To Look Like Fools By This Market,12,3,6,,"['the', 'idiot-mak', 'ralli', ':', 'check', 'out', 'all', 'of', 'the', 'guru', 'made', 'to', 'look', 'like', 'fool', 'by', 'thi', 'market', 'nan']",[0 0 0 ... 0 0 0],10
+158,10,Looks like I picked a great time to go on vacation!,11,1,4,"Without fail, every time I go away and have limited internet time, something happens.
+
+This time its the -4% day on AAPL which is something I have been waiting to see since the beginning of the year! lol
+
+Ill be away until next week Tuesday, so a big thank you to those of you that are contributing while Im away!
+
+","['look', 'like', 'i', 'pick', 'great', 'time', 'go', 'vacat', '!', 'without', 'fail', ',', 'everi', 'time', 'i', 'go', 'away', 'limit', 'internet', 'time', ',', 'someth', 'happen', '.', 'thi', 'time', '-4', '%', 'day', 'aapl', 'someth', 'i', 'wait', 'see', 'sinc', 'begin', 'year', '!', 'lol', 'ill', 'away', 'next', 'week', 'tuesday', ',', 'big', 'thank', 'contribut', 'im', 'away', '!']",[3 1 0 ... 0 0 0],10
+290,7,Several on FOMC Said Fed Should Be Ready to Vary QE Pace,8,1,0,,"['sever', 'fomc', 'said', 'fed', 'should', 'be', 'readi', 'vari', 'qe', 'pace', 'nan']",[0 0 0 ... 0 0 0],5
+858,3,Mark's Weekly Log; Charts and Analysis.,3,0,0,,"['mark', ""'s"", 'weekli', 'log', ';', 'chart', 'analysi', '.', 'nan']",[0 1 0 ... 0 0 0],5
+321,8,$CHK: Trade Insight,10,2,10,,"['$', 'chk', ':', 'trade', 'insight', 'nan']",[0 0 0 ... 0 0 0],10
+759,5,Biggest % gainers May 1st,5,0,2,"As the first hour of trading comes to a close, here are the stocks making the biggest percentage gains:
+
+PLXT	Plx Technology	6.63	66.58%
+
+IPSU	Imperial Sugar	6.32	56.05%
+
+PFCB	P.F. Chang's China Bistro	51.38	29.45%
+
+NUVA	NuVasive Inc	19.46	17.44%
+
+CAR	Avis Budget Group	15.40	17.02%
+
+CEDC	Central European Dstr	5.69	16.60%
+
+CETV	Central Euro Media Enter'A'	9.22	16.56%
+
+AEIS	Advanced Energy Indus	13.89	16.33%
+
+
+VECO	Veeco Instruments	34.74	15.07%
+
+UAM	Universal American Corp	10.49	14.27%
+ ","['biggest', '%', 'gainer', 'may', '1st', 'as', 'first', 'hour', 'trade', 'come', 'close', ',', 'stock', 'make', 'biggest', 'percentag', 'gain', ':', 'plxt', 'plx', 'technolog', '6.63', '66.58', '%', 'ipsu', 'imperi', 'sugar', '6.32', '56.05', '%', 'pfcb', 'p.f', '.', 'chang', ""'s"", 'china', 'bistro', '51.38', '29.45', '%', 'nuva', 'nuvas', 'inc', '19.46', '17.44', '%', 'car', 'avi', 'budget', 'group', '15.40', '17.02', '%', 'cedc', 'central', 'european', 'dstr', '5.69', '16.60', '%', 'cetv', 'central', 'euro', 'media', 'enter', ""'"", ""a'"", '9.22', '16.56', '%', 'aei', 'advanc', 'energi', 'indu', '13.89', '16.33', '%', 'veco', 'veeco', 'instrument', '34.74', '15.07', '%', 'uam', 'univers', 'american', 'corp', '10.49', '14.27', '%']",[1 1 0 ... 0 0 0],5
+70,14,StockJock-e brought myself and Cyngus_X on board to help make /r/Stockmarket  a better experience.  Help us improve this subbreddit.,21,7,22,"We are dedicated to making this the home of stock traders.  What do you like, and dislike?  What would you like to see in terms of posts here?  Thanks.","['stockjock-', 'brought', 'cyngus_x', 'board', 'help', 'make', '/r/stockmarket', 'better', 'experi', '.', 'help', 'us', 'improv', 'subbreddit', '.', 'we', 'dedic', 'make', 'home', 'stock', 'trader', '.', 'what', 'like', ',', 'dislik', '?', 'what', 'would', 'like', 'see', 'term', 'post', '?', 'thank', '.']",[1 4 0 ... 0 0 0],15
+355,7,S&amp;P futures take out last week's support 1350,7,0,4,,"['s', '&', 'amp', ';', 'p', 'futur', 'take', 'last', 'week', ""'s"", 'support', '1350', 'nan']",[0 0 0 ... 0 0 0],5
+359,7,"Some pressure coming into this morning, AMZN - 4%, AAPL testing $490",7,0,8,"AAPL [$490 is a support level](http://www.hotstockmarket.com/t/193992/stock-market-intraday-chat-feb-13th-17th/840#post_2831093) as we can see in this chart posted by charulz, lets see how that holds up this morning.
+
+AMZN got some downgrades, getting hit this morning.
+
+Some news on the wires now that the bridge loan to Greece is in trouble.
+
+Markets holding up very well in light of all of this.","['some', 'pressur', 'come', 'morn', ',', 'amzn', '-', '4', '%', ',', 'aapl', 'test', '$', '490', 'aapl', '[', '$', '490', 'support', 'level', ']', '(', 'http', ':', '//www.hotstockmarket.com/t/193992/stock-market-intraday-chat-feb-13th-17th/840', '#', 'post_2831093', ')', 'see', 'chart', 'post', 'charulz', ',', 'let', 'see', 'hold', 'morn', '.', 'amzn', 'got', 'downgrad', ',', 'get', 'hit', 'morn', '.', 'some', 'news', 'wire', 'bridg', 'loan', 'greec', 'troubl', '.', 'market', 'hold', 'well', 'light', '.']",[4 4 0 ... 0 0 0],5
+107,13,Shanghai continues to drop,13,0,3,"2 hours in on Tuesday (6/25) and it is already down 3.8%. That's almost 9% in a day and half.
+
+http://www.bloomberg.com/quote/SHCOMP:IND","['shanghai', 'continu', 'drop', '2', 'hour', 'tuesday', '(', '6/25', ')', 'alreadi', '3.8', '%', '.', 'that', ""'s"", 'almost', '9', '%', 'day', 'half', '.', 'http', ':', '//www.bloomberg.com/quote/shcomp', ':', 'ind']",[0 2 0 ... 0 0 0],15
+265,7,Some low ball targets on FB stock,9,2,13,"Currently trading at $31.84, here is one article from MarketWatch saying $13.80.
+
+This is the exact opposite of high balling targets during times of market euphoria.
+
+For your reading pleasure: 
+
+http://www.marketwatch.com/story/facebooks-stock-should-trade-for-1380-2012-05-25
+","['some', 'low', 'ball', 'target', 'fb', 'stock', 'current', 'trade', '$', '31.84', ',', 'one', 'articl', 'marketwatch', 'say', '$', '13.80', '.', 'thi', 'exact', 'opposit', 'high', 'ball', 'target', 'time', 'market', 'euphoria', '.', 'for', 'read', 'pleasur', ':', 'http', ':', '//www.marketwatch.com/story/facebooks-stock-should-trade-for-1380-2012-05-25']",[1 2 0 ... 0 0 0],5
+827,3,The top 5 stocks investing gurus are buying- MSN Money,15,12,1,,"['the', 'top', '5', 'stock', 'invest', 'guru', 'buying-', 'msn', 'money', 'nan']",[0 0 0 ... 0 0 0],5
+139,9,"AMZN EPS 21c vs 28c est, -3% currently",10,1,6,"AMZN earnings just in, initial reaction is a -3% drop, numbers are disappointing. 
+
+Edit: Now +7%, operating income is higher.
+
+Sheesh, once again, this is why I never touch AMZN! lol","['amzn', 'ep', '21c', 'vs', '28c', 'est', ',', '-3', '%', 'current', 'amzn', 'earn', ',', 'initi', 'reaction', '-3', '%', 'drop', ',', 'number', 'disappoint', '.', 'edit', ':', 'now', '+7', '%', ',', 'oper', 'incom', 'higher', '.', 'sheesh', ',', ',', 'i', 'never', 'touch', 'amzn', '!', 'lol']",[6 2 0 ... 0 0 0],10
+184,9,Day Types (As Defined by Market Profile),11,2,0,,"['day', 'type', '(', 'as', 'defin', 'market', 'profil', ')', 'nan']",[0 0 0 ... 0 0 0],10
+728,3,Chart! S&amp;P Hourly Pennant,6,3,16,"link to chart:
+http://cdn.hotstockmarket.com/e/e5/e5029fd2_hourlypennant.png
+
+linl to thread:
+http://www.hotstockmarket.com/t/235287/stock-market-today-july-2nd-6th/40#post_2875024
+
+Also today I think one could argue that given the almost 1/2% rise in the US Dollar that stocks are up in that they are remaining stable in the face of Dollar strength.","['chart', '!', 's', '&', 'amp', ';', 'p', 'hourli', 'pennant', 'link', 'chart', ':', 'http', ':', '//cdn.hotstockmarket.com/e/e5/e5029fd2_hourlypennant.png', 'linl', 'thread', ':', 'http', ':', '//www.hotstockmarket.com/t/235287/stock-market-today-july-2nd-6th/40', '#', 'post_2875024', 'also', 'today', 'i', 'think', 'one', 'could', 'argu', 'given', 'almost', '1/2', '%', 'rise', 'us', 'dollar', 'stock', 'remain', 'stabl', 'face', 'dollar', 'strength', '.']",[0 1 0 ... 0 0 0],5
+688,4,RIMM was only mostly dead .. hit 8.20 this morning,4,0,6,,"['rimm', 'mostli', 'dead', '..', 'hit', '8.20', 'morn', 'nan']",[0 0 0 ... 0 0 0],5
+943,4,Closing my EURUSD short 1.2976,5,1,3,"Follow up from:
+http://www.reddit.com/r/StockMarket/comments/szz70/my_eurusd_trade_idea/
+
+This election result in France gave me the push I wanted to see lower, anything below 1.30 is good enough for me, closing out the trade here for some green.
+
+This was a text book technical play, resistance held and it broke below the wedge support:
+
+https://www.tradingview.com/x/nhlTFXW7/
+","['close', 'eurusd', 'short', '1.2976', 'follow', ':', 'http', ':', '//www.reddit.com/r/stockmarket/comments/szz70/my_eurusd_trade_idea/', 'thi', 'elect', 'result', 'franc', 'gave', 'push', 'i', 'want', 'see', 'lower', ',', 'anyth', '1.30', 'good', 'enough', ',', 'close', 'trade', 'green', '.', 'thi', 'text', 'book', 'technic', 'play', ',', 'resist', 'held', 'broke', 'wedg', 'support', ':', 'http', ':', '//www.tradingview.com/x/nhltfxw7/']",[3 1 0 ... 0 0 0],5
+305,7,GRPN smack down -28%. Begin the coupon for GRPN stock jokes.,8,1,25,"Oh dear... 
+
+http://finviz.com/quote.ashx?t=GRPN
+
+Its in the $2 range.
+
+""Groupon (NASDAQ:GRPN) continues to put space between its initial public offering price and its current stock price. Shares of the daily deals company plunged after releasing disappointing financial results for the recent quarter.
+
+The Chicago-based company posted a net loss of $2.98 million (0 cents per share) for the third quarter, which includes stock-based compensation and acquisition-related expenses of $25.1 million. The net loss was better than last year’s $54.2 million debacle, but analysts were expecting positive earnings of 3 cents per share.""","['grpn', 'smack', '-28', '%', '.', 'begin', 'coupon', 'grpn', 'stock', 'joke', '.', 'oh', 'dear', '...', 'http', ':', '//finviz.com/quote.ashx', '?', 't=grpn', 'it', '$', '2', 'rang', '.', '``', 'groupon', '(', 'nasdaq', ':', 'grpn', ')', 'continu', 'put', 'space', 'initi', 'public', 'offer', 'price', 'current', 'stock', 'price', '.', 'share', 'daili', 'deal', 'compani', 'plung', 'releas', 'disappoint', 'financi', 'result', 'recent', 'quarter', '.', 'the', 'chicago-bas', 'compani', 'post', 'net', 'loss', '$', '2.98', 'million', '(', '0', 'cent', 'per', 'share', ')', 'third', 'quarter', ',', 'includ', 'stock-bas', 'compens', 'acquisition-rel', 'expens', '$', '25.1', 'million', '.', 'the', 'net', 'loss', 'better', 'last', 'year', '’', '$', '54.2', 'million', 'debacl', ',', 'analyst', 'expect', 'posit', 'earn', '3', 'cent', 'per', 'share', '.', ""''""]",[2 7 0 ... 0 0 0],5
+811,3,Does the AB=CD pattern work for anybody?,3,0,4,,"['doe', 'ab=cd', 'pattern', 'work', 'anybodi', '?', 'nan']",[0 0 0 ... 0 0 0],5
+306,7,"Wall Street Breakfast: Must-Know News November 8, 2012",8,1,0,,"['wall', 'street', 'breakfast', ':', 'must-know', 'new', 'novemb', '8', ',', '2012', 'nan']",[1 0 0 ... 0 0 0],5
+649,5,anyone know of Stephen Connell?,5,0,8,My boss(wealth management/insurance firm) told me he has beaten the S&amp;P 10/13 years with his fund...yet I find nothing on my google search. And yes after I google something I ask reddit. Lmk cause he's suppose to come into our office in a week or two and would like to impress if he's actually that good. ,"['anyon', 'know', 'stephen', 'connel', '?', 'my', 'boss', '(', 'wealth', 'management/insur', 'firm', ')', 'told', 'beaten', 's', '&', 'amp', ';', 'p', '10/13', 'year', 'fund', '...', 'yet', 'i', 'find', 'noth', 'googl', 'search', '.', 'and', 'ye', 'i', 'googl', 'someth', 'i', 'ask', 'reddit', '.', 'lmk', 'caus', ""'s"", 'suppos', 'come', 'offic', 'week', 'two', 'would', 'like', 'impress', ""'s"", 'actual', 'good', '.']",[0 3 0 ... 0 0 0],5
+972,3,Gold and gold miners lower on the week,3,0,5,,"['gold', 'gold', 'miner', 'lower', 'week', 'nan']",[0 0 0 ... 0 0 0],5
+323,7,"Next Week’s Tape: Earnings, Housing, and Bernanke, Too",7,0,2,,"['next', 'week', '’', 'tape', ':', 'earn', ',', 'hous', ',', 'bernank', ',', 'too', 'nan']",[3 0 0 ... 0 0 0],5
+59,13,What percentage of trades are 'market orders' vs limits and stops?,14,1,19,,"['what', 'percentag', 'trade', ""'market"", 'order', ""'"", 'vs', 'limit', 'stop', '?', 'nan']",[0 0 0 ... 0 0 0],15
+298,7,Consumer Confidence Improves as Hiring in U.S. Picks Up,9,2,0,,"['consum', 'confid', 'improv', 'hire', 'u.s.', 'pick', 'up', 'nan']",[0 0 0 ... 0 0 0],5
+628,5,"S&amp;P Cuts Credit Ratings for France, Italy, Spain",6,1,1,,"['s', '&', 'amp', ';', 'p', 'cut', 'credit', 'rate', 'franc', ',', 'itali', ',', 'spain', 'nan']",[2 0 0 ... 0 0 0],5
+618,5,"Greek Default, would it even matter to the US markets?",7,2,7,"This market is bipolar.
+
+Not so long ago, the mere sight of riots in Greece had us selling off as if the world was ending, now [Athens burns](http://rt.com/news/athens-burn-clashes-riots-145/) and we rally to new highs.
+
+James K was a Global Strategist for a major financial instution, here is a piece he wrote on Seeking Alpha:
+
+http://seekingalpha.com/article/376361-greek-default-and-devaluation-would-it-even-matter
+
+Snippets:
+
+&gt;the total value of Greek commerce in goods and services in the EU amounts to less than 1% of annual EU GDP. Besides, Greece exports nothing of critical importance to the EU that cannot be easily be substituted by other suppliers.
+
+&gt;Another example of the importance of Greece to the EU: Simply writing off 100% of the Greek sovereign and private debt held by European public and private institutions would cost about 3% of total European Union (EU) GDP.
+
+So while he goes on to explain this in depth, he does end off with something I agree with:
+
+&gt;None of this alters my late April timeline for the commencement of another major down leg for global equities. 
+
+Its a Sunday, the markets are closed, take the 10min and read this! :)","['greek', 'default', ',', 'would', 'even', 'matter', 'us', 'market', '?', 'thi', 'market', 'bipolar', '.', 'not', 'long', 'ago', ',', 'mere', 'sight', 'riot', 'greec', 'us', 'sell', 'world', 'end', ',', '[', 'athen', 'burn', ']', '(', 'http', ':', '//rt.com/news/athens-burn-clashes-riots-145/', ')', 'ralli', 'new', 'high', '.', 'jame', 'k', 'global', 'strategist', 'major', 'financi', 'instut', ',', 'piec', 'wrote', 'seek', 'alpha', ':', 'http', ':', '//seekingalpha.com/article/376361-greek-default-and-devaluation-would-it-even-matt', 'snippet', ':', '&', 'gt', ';', 'total', 'valu', 'greek', 'commerc', 'good', 'servic', 'eu', 'amount', 'less', '1', '%', 'annual', 'eu', 'gdp', '.', 'besid', ',', 'greec', 'export', 'noth', 'critic', 'import', 'eu', 'easili', 'substitut', 'supplier', '.', '&', 'gt', ';', 'anoth', 'exampl', 'import', 'greec', 'eu', ':', 'simpli', 'write', '100', '%', 'greek', 'sovereign', 'privat', 'debt', 'held', 'european', 'public', 'privat', 'institut', 'would', 'cost', '3', '%', 'total', 'european', 'union', '(', 'eu', ')', 'gdp', '.', 'so', 'goe', 'explain', 'depth', ',', 'end', 'someth', 'i', 'agre', ':', '&', 'gt', ';', 'none', 'alter', 'late', 'april', 'timelin', 'commenc', 'anoth', 'major', 'leg', 'global', 'equiti', '.', 'it', 'sunday', ',', 'market', 'close', ',', 'take', '10min', 'read', '!', ':', ')']",[8 6 0 ... 0 0 0],5
+370,6,OH COME ON!!!!,7,1,6,,"['oh', 'come', 'on', '!', '!', '!', '!', 'nan']",[0 0 0 ... 0 0 0],5
+23,21,Day trading thread for 4/15/2013,29,8,17,"Happy Monday folks.  
+
+The month is halfway over, lets see if we can continue this rally.  I dont think its over yet, but either way, theres always a bull market.   
+
+6:50 drink your coffee and read your news,  over two and a half over before markets open right now  at  6:50am.  
+
+7:50 shit, be careful with your coffee, just spilled a cup on my macbook..   got it drying now next to the fireplace (i always trade next a fireplace if i can)  on to 17 inch macbook pro number two.   gotta set platforms up.  gonna take a min
+
+8:10  ok,  so i set up an IRC chat to do this live feed from.  This helps in two ways:
+ *  you guys can chime in and see the trades live and ask questions
+ *  makes it much easier for me, as i dont have to timestamp everything.
+
+At the end of the day, i will just copy and paste from the IRC log.  
+
+I will be in both rooms,  the one i just created
+
+http://webchat.freenode.net/?channels=FunkyFunds&amp;uio=d4
+
+and the /r/stockmarket one 
+
+http://webchat.freenode.net/?channels=%23reddit-stockmarket
+
+","['day', 'trade', 'thread', '4/15/2013', 'happi', 'monday', 'folk', '.', 'the', 'month', 'halfway', ',', 'let', 'see', 'continu', 'ralli', '.', 'i', 'dont', 'think', 'yet', ',', 'either', 'way', ',', 'there', 'alway', 'bull', 'market', '.', '6:50', 'drink', 'coffe', 'read', 'news', ',', 'two', 'half', 'market', 'open', 'right', '6:50am', '.', '7:50', 'shit', ',', 'care', 'coffe', ',', 'spill', 'cup', 'macbook', '..', 'got', 'dri', 'next', 'fireplac', '(', 'alway', 'trade', 'next', 'fireplac', ')', '17', 'inch', 'macbook', 'pro', 'number', 'two', '.', 'got', 'ta', 'set', 'platform', '.', 'gon', 'na', 'take', 'min', '8:10', 'ok', ',', 'set', 'irc', 'chat', 'live', 'feed', '.', 'thi', 'help', 'two', 'way', ':', '*', 'guy', 'chime', 'see', 'trade', 'live', 'ask', 'question', '*', 'make', 'much', 'easier', ',', 'dont', 'timestamp', 'everyth', '.', 'at', 'end', 'day', ',', 'copi', 'past', 'irc', 'log', '.', 'i', 'room', ',', 'one', 'creat', 'http', ':', '//webchat.freenode.net/', '?', 'channels=funkyfund', '&', 'amp', ';', 'uio=d4', '/r/stockmarket', 'one', 'http', ':', '//webchat.freenode.net/', '?', 'channels=', '%', '23reddit-stockmarket']",[10  9  0 ...  0  0  0],20
+30,16,Netflix down 15%,20,4,1,,"['netflix', '15', '%', 'nan']",[0 0 0 ... 0 0 0],15
+757,4,YHOO - Is anyone looking at shorting YHOO with this news about their CEO?,4,0,4,"Their board is reviewing Scott Thompson's role as the CEO of Yahoo after news broke that he lied about his academic credentials. And one of their largest investors is pressuring the board to let him go. 
+
+http://www.businessweek.com/news/2012-05-05/yahoo-board-to-review-ceo-credentials-after-criticism","['yhoo', '-', 'is', 'anyon', 'look', 'short', 'yhoo', 'news', 'ceo', '?', 'their', 'board', 'review', 'scott', 'thompson', ""'s"", 'role', 'ceo', 'yahoo', 'news', 'broke', 'lie', 'academ', 'credenti', '.', 'and', 'one', 'largest', 'investor', 'pressur', 'board', 'let', 'go', '.', 'http', ':', '//www.businessweek.com/news/2012-05-05/yahoo-board-to-review-ceo-credentials-after-critic']",[0 2 0 ... 0 0 0],5
+10,28,Letters to a Young Trader,29,1,4,,"['letter', 'young', 'trader', 'nan']",[0 0 0 ... 0 0 0],30
+514,5,Anyone taken the Online trading academy workshop? What was it like?,5,0,4,,"['anyon', 'taken', 'onlin', 'trade', 'academi', 'workshop', '?', 'what', 'like', '?', 'nan']",[0 0 0 ... 0 0 0],5
+737,4,Todays move in nat gas,4,0,6,,"['today', 'move', 'nat', 'ga', 'nan']",[0 0 0 ... 0 0 0],5
+598,5,AlphaTrends May 3rd market analysis,6,1,2,,"['alphatrend', 'may', '3rd', 'market', 'analysi', 'nan']",[0 0 0 ... 0 0 0],5
+810,3,Mark's Weekly Trading Log (7/15-7/19) Charts Analysis and Video,6,3,0,,"['mark', ""'s"", 'weekli', 'trade', 'log', '(', '7/15-7/19', ')', 'chart', 'analysi', 'video', 'nan']",[0 0 0 ... 0 0 0],5
+551,5,STEM- The Ongoing Saga,8,3,16,"Here are my original posts on STEM:  
+
+----------------------------------------
+First:
+
+http://www.reddit.com/r/StockMarket/comments/wqibi/made_over_100_today_on_stem/
+
+Second:
+
+http://www.reddit.com/r/StockMarket/comments/x0u3e/stem_update_officially_up_more_than_100/
+
+-------------------------------------
+
+And now the latest update.
+
+So we had the typical sell off after the good news of the first CIRM award of $20MM.   This sell off was helped by a well timed downgrade by Roth Capital which drove the pps down to less than 1.45.   I knew that Roth was not a real analyst.  In fact Roth was the last financier to STEM and this downgrade indicated to me that their services were no longer required.  In other words Roth exercised all their warrants and sold all their shares and knew STEM had more good news coming in September and wanted in on that too.  They most likely went to STEM asking for another discounted offering and STEM said no.  This looked bad from a PR perspective but since I knew what Roth was trying to do(lower the pps to buy more cheap shares) I immediately started buying shares in the range of 1.45 - 1.63 .  So while my original average of .90 was raised I was also adding more shares to the pot.  My final average ended at 1.30 when Maxim started coverage on STEM as a BUY and a target of 2.60.  Maxim is just a bigger and more respected Roth so I expect them to be doing business in the future.  As to when I'm not sure.  Hopefully they don't need them.   Maxim's coverage popped the pps and saved it from further decline which worked out good for me because I was out of cash. :)  Finally STEM announced they would hold a CC on the upcoming spinal cord results which drove the pps up in a frenzy.  I sold 1/4 of all my holdings which is considerable.  Mostly the shares I bought in the Roth downgrade event cycle.  @ 2.16 this past Friday.  I did this to hedge against possible bad news on Monday when the spinal cord results came out.  
+
+Well it wasn't bad news: http://www.nasdaq.com/article/stemcells-inc-reports-positive-interim-data-from-spinal-cord-injury-trial-20120903-00062
+
+The important part being:
+
+""We are very intrigued to see that two of the three patients have gained considerable sensory function. The gains in sensation have evolved in a progressive pattern below the level of injury and are unanticipated in spinal cord injury patients with this severity of injury, suggesting that the neural stem cells are having a beneficial clinical effect. Sensory function of all these patients was stable before transplantation, so the reappearance of sensation is rather unexpected.""    
+
+
+STEM is holding a CC tomorrow at 11:30 AM EDT to talk about this.  I encourage anyone interested to call in and ask questions.
+
+Wednesday is the CIRM vote for another $20MM award for Alzheimer's.  The agenda can be found here: http://www.cirm.ca.gov/Agenda_2012-09-05/icocgoverning-board
+
+The RFA we are interested in is: RFA 10-05.   So if you are listening to the call, pay very close attention to that.
+
+
+Now back to trading.   So traders are fickle.  They tend to buy the story and sell the reality.  So we'll have to see how the market takes the spinal result news Tuesday in pre-market to judge it.  If it dips significantly I will step in and buy since we still have the CIRM award Wednesday which has an unknown outcome although I give it a high probability of success.  This is one reason I freed up some cash Friday.  
+
+The key here is that STEM continues to bring in great trial results in high profile diseases while continuing to bring in non-dilutive cash via CIRM.  The last part is the most important.  Stem cell companies burn huge amounts of cash.  They usually raise money through very dilutive offerings through the likes of Roth Capital.  If that dilution does not occur you can expect big returns since this science is so exciting.  So right now by my calcs, STEM does not need to dilute at all this year if they get that award Wednesday.  Later in the year they are up for 2 more partnership awards from CIRM.   If they land all of these they won't need to dilute all of next year either!    The implication to shareholders is large.   Now having said that STEM can still dilute if they want and GERN did it all the time even though they did not need the cash.   So we'll have to be careful and take some profits but at the same time don't give up the farm of massive returns if STEM does not dilute.  I'll be constantly trading this one and will likely always hold a core position.  GL to those interested.
+
+
+**Update:**
+
+Well the party is about over.  The sub committee at CIRM did not recommend the $20MM  Alzheimers award.  So I doubt it will win an award Thursday.  They can over rule the review committee but it doesn't sound like it in this case.   I sold all my tarding shares I bought from 1.45 to 1.60 today and now have left just my core shares averaged in at .97.   I will most likely let these shares roll the dice unless I see a golden opportunity to sell tomorrow which I doubt.  I hope it goes up but the event stream is ending in the short term.
+
+There are 2 more partnership awards at the end of the year but that's a ways off and in the meantime a no vote by CIRM only increases the chance of dilution.  Hope I'm wrong on that. 
+
+Signing out.
+
+
+**Final Update **
+
+Sold all my shares.   Made a huge profit trading this but without that award coming there is a strong possibility they could dilute so I'd rather take my large profits now and maybe get back in after dilution if it occurs.   May even short it a bit heh.
+
+Good luck to anyone still in.
+
+
+**Update 3**
+
+In case anyone was wondering I'm now buying CBRX.
+
+
+
+
+","['stem-', 'the', 'ongo', 'saga', 'here', 'origin', 'post', 'stem', ':', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', 'first', ':', 'http', ':', '//www.reddit.com/r/stockmarket/comments/wqibi/made_over_100_today_on_stem/', 'second', ':', 'http', ':', '//www.reddit.com/r/stockmarket/comments/x0u3e/stem_update_officially_up_more_than_100/', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '-', 'and', 'latest', 'updat', '.', 'so', 'typic', 'sell', 'good', 'news', 'first', 'cirm', 'award', '$', '20mm', '.', 'thi', 'sell', 'help', 'well', 'time', 'downgrad', 'roth', 'capit', 'drove', 'pp', 'less', '1.45', '.', 'i', 'knew', 'roth', 'real', 'analyst', '.', 'in', 'fact', 'roth', 'last', 'financi', 'stem', 'downgrad', 'indic', 'servic', 'longer', 'requir', '.', 'in', 'word', 'roth', 'exercis', 'warrant', 'sold', 'share', 'knew', 'stem', 'good', 'news', 'come', 'septemb', 'want', '.', 'they', 'like', 'went', 'stem', 'ask', 'anoth', 'discount', 'offer', 'stem', 'said', '.', 'thi', 'look', 'bad', 'pr', 'perspect', 'sinc', 'i', 'knew', 'roth', 'tri', '(', 'lower', 'pp', 'buy', 'cheap', 'share', ')', 'i', 'immedi', 'start', 'buy', 'share', 'rang', '1.45', '-', '1.63', '.', 'so', 'origin', 'averag', '.90', 'rais', 'i', 'also', 'ad', 'share', 'pot', '.', 'my', 'final', 'averag', 'end', '1.30', 'maxim', 'start', 'coverag', 'stem', 'buy', 'target', '2.60', '.', 'maxim', 'bigger', 'respect', 'roth', 'i', 'expect', 'busi', 'futur', '.', 'as', 'i', ""'m"", 'sure', '.', 'hope', ""n't"", 'need', '.', 'maxim', ""'s"", 'coverag', 'pop', 'pp', 'save', 'declin', 'work', 'good', 'i', 'cash', '.', ':', ')', 'final', 'stem', 'announc', 'would', 'hold', 'cc', 'upcom', 'spinal', 'cord', 'result', 'drove', 'pp', 'frenzi', '.', 'i', 'sold', '1/4', 'hold', 'consider', '.', 'mostli', 'share', 'i', 'bought', 'roth', 'downgrad', 'event', 'cycl', '.', '@', '2.16', 'past', 'friday', '.', 'i', 'hedg', 'possibl', 'bad', 'news', 'monday', 'spinal', 'cord', 'result', 'came', '.', 'well', ""n't"", 'bad', 'news', ':', 'http', ':', '//www.nasdaq.com/article/stemcells-inc-reports-positive-interim-data-from-spinal-cord-injury-trial-20120903-00062', 'the', 'import', 'part', ':', ""''"", 'we', 'intrigu', 'see', 'two', 'three', 'patient', 'gain', 'consider', 'sensori', 'function', '.', 'the', 'gain', 'sensat', 'evolv', 'progress', 'pattern', 'level', 'injuri', 'unanticip', 'spinal', 'cord', 'injuri', 'patient', 'sever', 'injuri', ',', 'suggest', 'neural', 'stem', 'cell', 'benefici', 'clinic', 'effect', '.', 'sensori', 'function', 'patient', 'stabl', 'transplant', ',', 'reappear', 'sensat', 'rather', 'unexpect', '.', ""''"", 'stem', 'hold', 'cc', 'tomorrow', '11:30', 'am', 'edt', 'talk', '.', 'i', 'encourag', 'anyon', 'interest', 'call', 'ask', 'question', '.', 'wednesday', 'cirm', 'vote', 'anoth', '$', '20mm', 'award', 'alzheim', ""'s"", '.', 'the', 'agenda', 'found', ':', 'http', ':', '//www.cirm.ca.gov/agenda_2012-09-05/icocgoverning-board', 'the', 'rfa', 'interest', ':', 'rfa', '10-05', '.', 'so', 'listen', 'call', ',', 'pay', 'close', 'attent', '.', 'now', 'back', 'trade', '.', 'so', 'trader', 'fickl', '.', 'they', 'tend', 'buy', 'stori', 'sell', 'realiti', '.', 'so', ""'ll"", 'see', 'market', 'take', 'spinal', 'result', 'news', 'tuesday', 'pre-market', 'judg', '.', 'if', 'dip', 'significantli', 'i', 'step', 'buy', 'sinc', 'still', 'cirm', 'award', 'wednesday', 'unknown', 'outcom', 'although', 'i', 'give', 'high', 'probabl', 'success', '.', 'thi', 'one', 'reason', 'i', 'freed', 'cash', 'friday', '.', 'the', 'key', 'stem', 'continu', 'bring', 'great', 'trial', 'result', 'high', 'profil', 'diseas', 'continu', 'bring', 'non-dilut', 'cash', 'via', 'cirm', '.', 'the', 'last', 'part', 'import', '.', 'stem', 'cell', 'compani', 'burn', 'huge', 'amount', 'cash', '.', 'they', 'usual', 'rais', 'money', 'dilut', 'offer', 'like', 'roth', 'capit', '.', 'if', 'dilut', 'occur', 'expect', 'big', 'return', 'sinc', 'scienc', 'excit', '.', 'so', 'right', 'calc', ',', 'stem', 'need', 'dilut', 'year', 'get', 'award', 'wednesday', '.', 'later', 'year', '2', 'partnership', 'award', 'cirm', '.', 'if', 'land', 'wo', ""n't"", 'need', 'dilut', 'next', 'year', 'either', '!', 'the', 'implic', 'sharehold', 'larg', '.', 'now', 'said', 'stem', 'still', 'dilut', 'want', 'gern', 'time', 'even', 'though', 'need', 'cash', '.', 'so', ""'ll"", 'care', 'take', 'profit', 'time', ""n't"", 'give', 'farm', 'massiv', 'return', 'stem', 'dilut', '.', 'i', ""'ll"", 'constantli', 'trade', 'one', 'like', 'alway', 'hold', 'core', 'posit', '.', 'gl', 'interest', '.', '*', '*', 'updat', ':', '*', '*', 'well', 'parti', '.', 'the', 'sub', 'committe', 'cirm', 'recommend', '$', '20mm', 'alzheim', 'award', '.', 'so', 'i', 'doubt', 'win', 'award', 'thursday', '.', 'they', 'rule', 'review', 'committe', ""n't"", 'sound', 'like', 'case', '.', 'i', 'sold', 'tard', 'share', 'i', 'bought', '1.45', '1.60', 'today', 'left', 'core', 'share', 'averag', '.97', '.', 'i', 'like', 'let', 'share', 'roll', 'dice', 'unless', 'i', 'see', 'golden', 'opportun', 'sell', 'tomorrow', 'i', 'doubt', '.', 'i', 'hope', 'goe', 'event', 'stream', 'end', 'short', 'term', '.', 'there', '2', 'partnership', 'award', 'end', 'year', ""'s"", 'way', 'meantim', 'vote', 'cirm', 'increas', 'chanc', 'dilut', '.', 'hope', 'i', ""'m"", 'wrong', '.', 'sign', '.', '*', '*', 'final', 'updat', '*', '*', 'sold', 'share', '.', 'made', 'huge', 'profit', 'trade', 'without', 'award', 'come', 'strong', 'possibl', 'could', 'dilut', 'i', ""'d"", 'rather', 'take', 'larg', 'profit', 'mayb', 'get', 'back', 'dilut', 'occur', '.', 'may', 'even', 'short', 'bit', 'heh', '.', 'good', 'luck', 'anyon', 'still', '.', '*', '*', 'updat', '3', '*', '*', 'in', 'case', 'anyon', 'wonder', 'i', ""'m"", 'buy', 'cbrx', '.']",[ 4 60  0 ...  0  0  0],5
+620,5,US election results leaked!,6,1,0,,"['us', 'elect', 'result', 'leak', '!', 'nan']",[0 0 0 ... 0 0 0],5
+334,8,S&amp;P stuck between two important levels today,9,1,2,,"['s', '&', 'amp', ';', 'p', 'stuck', 'two', 'import', 'level', 'today', 'nan']",[0 0 0 ... 0 0 0],10
+237,10,"NFLX, AMZN: Netflix Crippled On Christmas Eve By AWS Outages [x-post from /r/technology]",14,4,3,,"['nflx', ',', 'amzn', ':', 'netflix', 'crippl', 'on', 'christma', 'eve', 'by', 'aw', 'outag', '[', 'x-post', '/r/technolog', ']', 'nan']",[1 0 0 ... 0 0 0],10
+591,3,What stocks are expected to perform well when QE3 is approved?,7,4,8,"QE2 is coming to an end in June and we all know the stock market has been doing poorly.  Its only a matter of time before the Doves win,  and we see QE3.  So I am formulating a strategy for when QE3 is approved.
+
+Using Google finance I see that there is a huge spike in Durable goods and Auto sales in September-November 2011
+https://www.google.com/finance?q=GOOGLEINDEX_US:AUTOBY
+
+GM saw huge gains in Octobert 2011,  BAC also did well in this month.  So what does the community think?  Does anyone else have a QE3 strategy? ","['what', 'stock', 'expect', 'perform', 'well', 'qe3', 'approv', '?', 'qe2', 'come', 'end', 'june', 'know', 'stock', 'market', 'poorli', '.', 'it', 'matter', 'time', 'dove', 'win', ',', 'see', 'qe3', '.', 'so', 'i', 'formul', 'strategi', 'qe3', 'approv', '.', 'use', 'googl', 'financ', 'i', 'see', 'huge', 'spike', 'durabl', 'good', 'auto', 'sale', 'september-novemb', '2011', 'http', ':', '//www.google.com/fin', '?', 'q=googleindex_u', ':', 'autobi', 'gm', 'saw', 'huge', 'gain', 'octobert', '2011', ',', 'bac', 'also', 'well', 'month', '.', 'so', 'commun', 'think', '?', 'doe', 'anyon', 'els', 'qe3', 'strategi', '?']",[2 4 0 ... 0 0 0],5
+198,9,S&amp;P breaks above 1400,10,1,5,"We're at a 3 month high and this is a good psychological marker.  There has been a steady upward momentum in the channel for 2 full months.  The only question now is, will there be any news that will cause a break downward, or will this trend continue on for the next several weeks?  I am personally worried that Spain/France debt worries will resurface in another 1-2 weeks and it will lead to a massive sell-off of the recent gains.  But, how does everyone else feel?","['s', '&', 'amp', ';', 'p', 'break', '1400', 'we', ""'re"", '3', 'month', 'high', 'good', 'psycholog', 'marker', '.', 'there', 'steadi', 'upward', 'momentum', 'channel', '2', 'full', 'month', '.', 'the', 'question', ',', 'news', 'caus', 'break', 'downward', ',', 'trend', 'continu', 'next', 'sever', 'week', '?', 'i', 'person', 'worri', 'spain/franc', 'debt', 'worri', 'resurfac', 'anoth', '1-2', 'week', 'lead', 'massiv', 'sell-off', 'recent', 'gain', '.', 'but', ',', 'everyon', 'els', 'feel', '?']",[3 3 0 ... 0 0 0],10
+430,6,Mark's Weekly Trading Log Updated!,7,1,0,"This Sundays weekly log entry.
+
+http://www.hotstockmarket.com/t/166656/marks-trading-log/60#post_2885005","['mark', ""'s"", 'weekli', 'trade', 'log', 'updat', '!', 'thi', 'sunday', 'weekli', 'log', 'entri', '.', 'http', ':', '//www.hotstockmarket.com/t/166656/marks-trading-log/60', '#', 'post_2885005']",[0 1 0 ... 0 0 0],5
+363,6,MrTopStep closing print Aug 15th,8,2,1,,"['mrtopstep', 'close', 'print', 'aug', '15th', 'nan']",[0 0 0 ... 0 0 0],5
+532,5,Asian Markets Mixed on Weak Japanese GDP and Better Chinese Exports - IBTimes UK,6,1,0,,"['asian', 'market', 'mix', 'weak', 'japanes', 'gdp', 'better', 'chines', 'export', '-', 'ibtim', 'uk', 'nan']",[0 0 0 ... 0 0 0],5
+404,6,Mark's Weekly Log; Charts and Analysis.,7,1,1,,"['mark', ""'s"", 'weekli', 'log', ';', 'chart', 'analysi', '.', 'nan']",[0 1 0 ... 0 0 0],5
+96,10,Can you even make money from trading anymore?,18,8,48,And does anyone live off of trading? ,"['can', 'even', 'make', 'money', 'trade', 'anymor', '?', 'and', 'anyon', 'live', 'trade', '?']",[0 0 0 ... 0 0 0],10
+583,5,FB closes +6% at $30,8,3,10,"Well look at that, the FB bulls got a bit of a rally into the close.
+
+The sentiment was bad enough that this had to happen eventually. 
+
+Anybody stuck in this from higher levels? Are you looking to sell on a rally or hold out for higher levels?","['fb', 'close', '+6', '%', '$', '30', 'well', 'look', ',', 'fb', 'bull', 'got', 'bit', 'ralli', 'close', '.', 'the', 'sentiment', 'bad', 'enough', 'happen', 'eventu', '.', 'anybodi', 'stuck', 'higher', 'level', '?', 'are', 'look', 'sell', 'ralli', 'hold', 'higher', 'level', '?']",[1 2 0 ... 0 0 0],5
+723,3,"$XOM, if we break this lower channel, go short",5,2,2,,"['$', 'xom', ',', 'break', 'lower', 'channel', ',', 'go', 'short', 'nan']",[2 0 0 ... 0 0 0],5
+832,2,"Benjamin Franklin once said, ""An investment in knowledge pays the best interest.""",12,10,2,,"['benjamin', 'franklin', 'said', ',', '``', 'an', 'invest', 'knowledg', 'pay', 'best', 'interest', '.', ""''"", 'nan']",[1 1 0 ... 0 0 0],0
+235,7,"Gold: Not The Safe Haven, The S&amp;P 'Bellwether'
+My latest Article",9,2,3,,"['gold', ':', 'not', 'the', 'safe', 'haven', ',', 'the', 's', '&', 'amp', ';', 'p', ""'bellwether'"", 'my', 'latest', 'articl', 'nan']",[1 0 0 ... 0 0 0],5
+312,8,AlphaTrends EOW wrap for Sept 14th,10,2,0,,"['alphatrend', 'eow', 'wrap', 'sept', '14th', 'nan']",[0 0 0 ... 0 0 0],10
+673,5,What are some of the best online lessons/videos/resources for learning about the market?,5,0,6,"I am very interested in learning about the stock market but do not want to learn by playing around with my money.
+
+Thanks for the help!","['what', 'best', 'onlin', 'lessons/videos/resourc', 'learn', 'market', '?', 'i', 'interest', 'learn', 'stock', 'market', 'want', 'learn', 'play', 'around', 'money', '.', 'thank', 'help', '!']",[0 1 0 ... 0 0 0],5
+937,3,Fitch downgrades Japan,4,1,1,"http://www.nytimes.com/2012/05/23/business/global/fitch-downgrades-japans-sovereign-rating.html
+
+Live chat member mentioned this. http://www.hotstockmarket.com/chat/
+
+Personal opinion, not really like the ratings mean a whole lot. Almost as if you were to take a dollar out of a hundred the difference isn't exactly noticeable. ","['fitch', 'downgrad', 'japan', 'http', ':', '//www.nytimes.com/2012/05/23/business/global/fitch-downgrades-japans-sovereign-rating.html', 'live', 'chat', 'member', 'mention', '.', 'http', ':', '//www.hotstockmarket.com/chat/', 'person', 'opinion', ',', 'realli', 'like', 'rate', 'mean', 'whole', 'lot', '.', 'almost', 'take', 'dollar', 'hundr', 'differ', ""n't"", 'exactli', 'notic', '.']",[1 3 0 ... 0 0 0],5
+39,17,What are your thoughts on MJNA?,21,4,36,,"['what', 'thought', 'mjna', '?', 'nan']",[0 0 0 ... 0 0 0],15
+213,9,"Markets are green today so: ""Markets buoyed by hopes for Greek bond swap """,10,1,7,"LOL
+
+We were talking about this yesterday, how news headlines are just a bunch of random word generators based on what the market has already done.
+
+Since we are green today, it must be because the market has high hopes!
+
+http://www.usatoday.com/money/markets/story/2012-03-08/stocks-thursday-greece/53410384/1","['market', 'green', 'today', ':', '``', 'market', 'buoy', 'hope', 'greek', 'bond', 'swap', '``', 'lol', 'we', 'talk', 'yesterday', ',', 'news', 'headlin', 'bunch', 'random', 'word', 'gener', 'base', 'market', 'alreadi', 'done', '.', 'sinc', 'green', 'today', ',', 'must', 'market', 'high', 'hope', '!', 'http', ':', '//www.usatoday.com/money/markets/story/2012-03-08/stocks-thursday-greece/53410384/1']",[2 1 0 ... 0 0 0],10
+482,5,Has anyone worked for T3 trading?,5,0,3,Can you share your experience with T3 Trading? ,"['ha', 'anyon', 'work', 't3', 'trade', '?', 'can', 'share', 'experi', 't3', 'trade', '?']",[0 0 0 ... 0 0 0],5
+933,3,Long ES 1267.50 for this bounce,3,0,10,"Taking some S&amp;P futures to the long side from 1267.50:
+
+ http://www.hotstockmarket.com/t/226951/stock-market-today-june-4th-8th/140#post_2867226
+
+As per the chart posted earlier, looking for a relief rally here.","['long', 'es', '1267.50', 'bounc', 'take', 's', '&', 'amp', ';', 'p', 'futur', 'long', 'side', '1267.50', ':', 'http', ':', '//www.hotstockmarket.com/t/226951/stock-market-today-june-4th-8th/140', '#', 'post_2867226', 'as', 'per', 'chart', 'post', 'earlier', ',', 'look', 'relief', 'ralli', '.']",[1 1 0 ... 0 0 0],5
+66,15,"Algos Gone Wild, Again.",17,2,55,,"['algo', 'gone', 'wild', ',', 'again', '.', 'nan']",[1 1 0 ... 0 0 0],15
+924,2,"If Greece returns to the drachma, how would I go about shorting it?",4,2,5,"Will there be an Ultra Short ETF for this?  Lets say Greece intros the drachma again for a 1:1 vs. the Euro.  I feel it would drop in value by half within the month, and certainly there will be a way to play this move.  Ideas?","['if', 'greec', 'return', 'drachma', ',', 'would', 'i', 'go', 'short', '?', 'will', 'ultra', 'short', 'etf', '?', 'let', 'say', 'greec', 'intro', 'drachma', '1:1', 'vs.', 'euro', '.', 'i', 'feel', 'would', 'drop', 'valu', 'half', 'within', 'month', ',', 'certainli', 'way', 'play', 'move', '.', 'idea', '?']",[2 2 0 ... 0 0 0],0
+67,14,Facebook (FB) Drops to Record Low,16,2,17,,"['facebook', '(', 'fb', ')', 'drop', 'record', 'low', 'nan']",[0 0 0 ... 0 0 0],15
+883,3,Down for AAPL? When is the right entry point to short AAPL today? Boeing heading higher?,4,1,4,,"['down', 'aapl', '?', 'when', 'right', 'entri', 'point', 'short', 'aapl', 'today', '?', 'boe', 'head', 'higher', '?', 'nan']",[0 0 0 ... 0 0 0],5
+485,4,"$FSLR (first solar) hot or not? , $BA (boeing) will recover to 108?",6,2,6,"fslr  ,  seems to be riding high from china news.  looks good?  
+
+ba  ,   will boeing recover back to 108 and fly higher?  ","['$', 'fslr', '(', 'first', 'solar', ')', 'hot', '?', ',', '$', 'ba', '(', 'boe', ')', 'recov', '108', '?', 'fslr', ',', 'seem', 'ride', 'high', 'china', 'news', '.', 'look', 'good', '?', 'ba', ',', 'boe', 'recov', 'back', '108', 'fli', 'higher', '?']",[3 1 0 ... 0 0 0],5
+168,9,The US Stock Market: Raging Bull or Suspended Reality?,9,0,8,,"['the', 'us', 'stock', 'market', ':', 'rage', 'bull', 'suspend', 'realiti', '?', 'nan']",[0 0 0 ... 0 0 0],10
+318,6,"With 271million shares coming up Aug 16, and 1.2B on Nov 14, is a Nov put on FB wise?",7,1,5,"Just as the title says, I can't imagine some magic bullet that gives FB huge amounts of revenue, so with almost 1.5billion shares of employees and early investors coming in the next few months, would it be a good idea to write some Nov calls or buy some Nov puts?
+
+Groupon and Zynga both saw over 7% decline the days their shares opened up, and Facebook is following their path pretty closely right now.","['with', '271million', 'share', 'come', 'aug', '16', ',', '1.2b', 'nov', '14', ',', 'nov', 'put', 'fb', 'wise', '?', 'just', 'titl', 'say', ',', 'i', 'ca', ""n't"", 'imagin', 'magic', 'bullet', 'give', 'fb', 'huge', 'amount', 'revenu', ',', 'almost', '1.5billion', 'share', 'employe', 'earli', 'investor', 'come', 'next', 'month', ',', 'would', 'good', 'idea', 'write', 'nov', 'call', 'buy', 'nov', 'put', '?', 'groupon', 'zynga', 'saw', '7', '%', 'declin', 'day', 'share', 'open', ',', 'facebook', 'follow', 'path', 'pretti', 'close', 'right', '.']",[6 1 0 ... 0 0 0],5
+687,4,"Mark's Weekly Trading Log.
+End of Quarter Charts and Analysis.",4,0,5,,"['mark', ""'s"", 'weekli', 'trade', 'log', '.', 'end', 'quarter', 'chart', 'analysi', '.', 'nan']",[0 2 0 ... 0 0 0],5
+362,8,"What do you guys think about a possible acquisition of Nokia by Microsoft? Possible?/Not Likely? What do you think about investing in some Nokia stock, would you guys recommend it?",9,1,5,,"['what', 'guy', 'think', 'possibl', 'acquisit', 'nokia', 'microsoft', '?', 'possibl', '?', '/not', 'like', '?', 'what', 'think', 'invest', 'nokia', 'stock', ',', 'would', 'guy', 'recommend', '?', 'nan']",[1 0 0 ... 0 0 0],10
+581,5,Stock Market Today: June 20th biggest % movers,6,1,4,"Getting out the top 10 list early today!
+
+Right out the gate at 9:32am, here are the top 10 biggest % movers:
+
+GEVO	Gevo Inc	8.04	35.81%
+
+IDIX	Idenix Pharmaceuticals	10.78	15.04%
+
+GALE	Galena Biopharma Inc	1.74	10.13%
+
+KV.A	K-V Pharmaceutical Cl'A'	0.77	7.66%
+
+CECO	Career Education	5.86	6.55%
+
+SMP	Standard Motor Prod	13.92	5.78%
+
+CHH	Choice Hotels Intl	40.33	5.47%
+
+TSLA	Tesla Motors Inc	33.76	5.20%
+
+ROSG	Rosetta Genomics Ltd	14.18	5.04%
+
+IRG	Ignite Restaurant Group Inc	19.76	4.94%
+
+
+Well look at that, ROSG again. Is there a week when this biotech is not on the list? That is a crazy chart, very volatile to both bulls and bears.
+
+TSLA making an appearance, probably news on that somewhere, I have not checked yet.
+","['stock', 'market', 'today', ':', 'june', '20th', 'biggest', '%', 'mover', 'get', 'top', '10', 'list', 'earli', 'today', '!', 'right', 'gate', '9:32am', ',', 'top', '10', 'biggest', '%', 'mover', ':', 'gevo', 'gevo', 'inc', '8.04', '35.81', '%', 'idix', 'idenix', 'pharmaceut', '10.78', '15.04', '%', 'gale', 'galena', 'biopharma', 'inc', '1.74', '10.13', '%', 'kv.a', 'k-v', 'pharmaceut', 'cl', ""'"", ""a'"", '0.77', '7.66', '%', 'ceco', 'career', 'educ', '5.86', '6.55', '%', 'smp', 'standard', 'motor', 'prod', '13.92', '5.78', '%', 'chh', 'choic', 'hotel', 'intl', '40.33', '5.47', '%', 'tsla', 'tesla', 'motor', 'inc', '33.76', '5.20', '%', 'rosg', 'rosetta', 'genom', 'ltd', '14.18', '5.04', '%', 'irg', 'ignit', 'restaur', 'group', 'inc', '19.76', '4.94', '%', 'well', 'look', ',', 'rosg', '.', 'is', 'week', 'biotech', 'list', '?', 'that', 'crazi', 'chart', ',', 'volatil', 'bull', 'bear', '.', 'tsla', 'make', 'appear', ',', 'probabl', 'news', 'somewher', ',', 'i', 'check', 'yet', '.']",[5 3 0 ... 0 0 0],5
+215,9,No selling permitted! Buy everything!,9,0,11,"LOL
+
+We get a small gap down this morning, support is tested in the 1354 level and BOOM! Its as if somebody flipped the switch on the algos to ""buy everything"" and went for an early lunch.
+
+Watching for divergence here on these new highs, we are a hair below Fridays 1368 ES levels.
+
+Russell did not make any new highs, banks are bit weaker as are basic materials. As always, tech powering higher, thank you AAPL.
+
+","['no', 'sell', 'permit', '!', 'buy', 'everyth', '!', 'lol', 'we', 'get', 'small', 'gap', 'morn', ',', 'support', 'test', '1354', 'level', 'boom', '!', 'it', 'somebodi', 'flip', 'switch', 'algo', '``', 'buy', 'everyth', ""''"", 'went', 'earli', 'lunch', '.', 'watch', 'diverg', 'new', 'high', ',', 'hair', 'friday', '1368', 'es', 'level', '.', 'russel', 'make', 'new', 'high', ',', 'bank', 'bit', 'weaker', 'basic', 'materi', '.', 'as', 'alway', ',', 'tech', 'power', 'higher', ',', 'thank', 'aapl', '.']",[5 4 0 ... 0 0 0],10
+806,4,Mark's Weekly Trading Log (7/29-8/2) Charts Analysis and Video,6,2,2,,"['mark', ""'s"", 'weekli', 'trade', 'log', '(', '7/29-8/2', ')', 'chart', 'analysi', 'video', 'nan']",[0 0 0 ... 0 0 0],5
+294,8,Mark's Weekly Log; Charts and Analysis,9,1,0,,"['mark', ""'s"", 'weekli', 'log', ';', 'chart', 'analysi', 'nan']",[0 0 0 ... 0 0 0],10
+88,13,"Ok, Im back from vacation. AAPL probably starts rallying now.",13,0,40,"What did I tell you?
+
+AAPL would drop while I was gone for the week!
+
+LOL","['ok', ',', 'im', 'back', 'vacat', '.', 'aapl', 'probabl', 'start', 'ralli', '.', 'what', 'i', 'tell', '?', 'aapl', 'would', 'drop', 'i', 'gone', 'week', '!', 'lol']",[1 2 0 ... 0 0 0],15
+63,14,AAPL: Short Term Technicals,18,4,5,"For those interested, here's some charts I've drawn with possibly outcomes around various price levels. For those who aren't interested in technicals...disregard.
+
+[Daily Chart](https://www.tradingview.com/v/ZCjNZADg/)
+
+[Intraday](https://www.tradingview.com/v/QuiP9IZ5/)","['aapl', ':', 'short', 'term', 'technic', 'for', 'interest', ',', ""'s"", 'chart', 'i', ""'ve"", 'drawn', 'possibl', 'outcom', 'around', 'variou', 'price', 'level', '.', 'for', ""n't"", 'interest', 'technic', '...', 'disregard', '.', '[', 'daili', 'chart', ']', '(', 'http', ':', '//www.tradingview.com/v/zcjnzadg/', ')', '[', 'intraday', ']', '(', 'http', ':', '//www.tradingview.com/v/quip9iz5/', ')']",[1 2 0 ... 0 0 0],15
+905,3,Chipotle Earnings Play Advice,3,0,4,I have a 420 Call Calendar Spread for CMG with the front month expiring Friday. They announce earnings Thursday after the bell. I'm up about 15% already but I'm thinking there should be an earnings beat. Anyone care to share their thoughts?,"['chipotl', 'earn', 'play', 'advic', 'i', '420', 'call', 'calendar', 'spread', 'cmg', 'front', 'month', 'expir', 'friday', '.', 'they', 'announc', 'earn', 'thursday', 'bell', '.', 'i', ""'m"", '15', '%', 'alreadi', 'i', ""'m"", 'think', 'earn', 'beat', '.', 'anyon', 'care', 'share', 'thought', '?']",[0 3 0 ... 0 0 0],5
+710,5,How to get order executed in pre-market/post-market hours?,8,3,6,"I asked an E-Trade rep this once, and they were very vague about it. They said something like ""Only **certain** orders are processed during after hours trading."" 
+
+- Does the order have to be sufficiently large?
+- Do certain institutions get special treatment?
+- Both?
+
+Regardless of which it is, those ""special"" orders would take precedence over others in the queue, right? Even though the smaller orders were already in the queue?","['how', 'get', 'order', 'execut', 'pre-market/post-market', 'hour', '?', 'i', 'ask', 'e-trad', 'rep', ',', 'vagu', '.', 'they', 'said', 'someth', 'like', '``', 'onli', '*', '*', 'certain', '*', '*', 'order', 'process', 'hour', 'trade', '.', ""''"", '-', 'doe', 'order', 'suffici', 'larg', '?', '-', 'do', 'certain', 'institut', 'get', 'special', 'treatment', '?', '-', 'both', '?', 'regardless', ',', '``', 'special', ""''"", 'order', 'would', 'take', 'preced', 'other', 'queue', ',', 'right', '?', 'even', 'though', 'smaller', 'order', 'alreadi', 'queue', '?']",[3 2 0 ... 0 0 0],5
+597,5,"Wed 9th morning call, technical levels",5,0,1,,"['wed', '9th', 'morn', 'call', ',', 'technic', 'level', 'nan']",[1 0 0 ... 0 0 0],5
+895,3,"PFE new 52wk highs, Q2 net income rises",4,1,2,,"['pfe', 'new', '52wk', 'high', ',', 'q2', 'net', 'incom', 'rise', 'nan']",[1 0 0 ... 0 0 0],5
+210,9,r/stockmarket and the stock market close with a strong Q1!,9,0,5,"Hi traders!
+
+Q1 comes to a close and the markets are hitting the biggest quarterly gains since 1998!
+
+r/stockmarket really picked up this month! Its no longer me talking to myself like it was back in Jan! :P
+
+There are actually 4-5 other people posting now! \o/
+
+[Lets take a look at the activity r/stockmarket is getting in this useful chart](http://i.imgur.com/t6Re7.gif).
+
+You can see January was very lonely, but its getting better! This actually looks like a chart of AAPL...
+
+Anyway, onto the S&amp;P:
+
+Bloomberg - S&amp;P 500 Posts Biggest First-Quarter Gain Since 1998
+ By Rita Nazareth - Mar 30, 2012 1:49 PM GMT-0700
+
+U.S. stocks rose, extending the biggest first-quarter advance since 1998 for the Standard &amp; Poor’s 500 Index, as stronger-than-forecast growth in consumer sentiment and spending bolstered optimism in the economy.
+
+Halliburton Co. (HAL) and Dow Chemical Co. advanced more than 1.2 percent to pace gains in commodity producers. Walt Disney Co. (DIS), the largest U.S. entertainment company by market value, climbed 1.8 percent after Lazard Ltd. raised its recommendation for the shares. Apple Inc. (AAPL), which has surged 48 percent in the first three months of 2012, retreated 1.7 percent today.
+
+The S&amp;P 500 advanced 0.4 percent to 1,408.47 at 4 p.m. New York time, extending its quarterly rally to 12 percent. The Dow Jones Industrial Average increased 66.22 points, or 0.5 percent, to 13,212.04. The Nasdaq Composite Index declined 0.1 percent to 3,091.57. The measure still posted the biggest first-quarter gain since 1991 (CCMP), surging 19 percent. The Russell 2000 Index of small companies declined 0.2 percent to 830.30 today.
+
+“There’s no reason to avoid equities just because they’ve gone up a lot,” said David Kelly, who helps oversee about $394 billion as chief market strategist at JPMorgan Funds in New York. “People are less fearful of a global financial meltdown emanating from Europe. If you look at valuations and the potential for economic growth, those things tell me the market should have room to move higher over the next few years.”","['r/stockmarket', 'stock', 'market', 'close', 'strong', 'q1', '!', 'hi', 'trader', '!', 'q1', 'come', 'close', 'market', 'hit', 'biggest', 'quarterli', 'gain', 'sinc', '1998', '!', 'r/stockmarket', 'realli', 'pick', 'month', '!', 'it', 'longer', 'talk', 'like', 'back', 'jan', '!', ':', 'p', 'there', 'actual', '4-5', 'peopl', 'post', '!', '\\o/', '[', 'let', 'take', 'look', 'activ', 'r/stockmarket', 'get', 'use', 'chart', ']', '(', 'http', ':', '//i.imgur.com/t6re7.gif', ')', '.', 'you', 'see', 'januari', 'lone', ',', 'get', 'better', '!', 'thi', 'actual', 'look', 'like', 'chart', 'aapl', '...', 'anyway', ',', 'onto', 's', '&', 'amp', ';', 'p', ':', 'bloomberg', '-', 's', '&', 'amp', ';', 'p', '500', 'post', 'biggest', 'first-quart', 'gain', 'sinc', '1998', 'by', 'rita', 'nazareth', '-', 'mar', '30', ',', '2012', '1:49', 'pm', 'gmt-0700', 'u.s.', 'stock', 'rose', ',', 'extend', 'biggest', 'first-quart', 'advanc', 'sinc', '1998', 'standard', '&', 'amp', ';', 'poor', '’', '500', 'index', ',', 'stronger-than-forecast', 'growth', 'consum', 'sentiment', 'spend', 'bolster', 'optim', 'economi', '.', 'halliburton', 'co.', '(', 'hal', ')', 'dow', 'chemic', 'co.', 'advanc', '1.2', 'percent', 'pace', 'gain', 'commod', 'produc', '.', 'walt', 'disney', 'co.', '(', 'di', ')', ',', 'largest', 'u.s.', 'entertain', 'compani', 'market', 'valu', ',', 'climb', '1.8', 'percent', 'lazard', 'ltd.', 'rais', 'recommend', 'share', '.', 'appl', 'inc.', '(', 'aapl', ')', ',', 'surg', '48', 'percent', 'first', 'three', 'month', '2012', ',', 'retreat', '1.7', 'percent', 'today', '.', 'the', 's', '&', 'amp', ';', 'p', '500', 'advanc', '0.4', 'percent', '1,408.47', '4', 'p.m.', 'new', 'york', 'time', ',', 'extend', 'quarterli', 'ralli', '12', 'percent', '.', 'the', 'dow', 'jone', 'industri', 'averag', 'increas', '66.22', 'point', ',', '0.5', 'percent', ',', '13,212.04', '.', 'the', 'nasdaq', 'composit', 'index', 'declin', '0.1', 'percent', '3,091.57', '.', 'the', 'measur', 'still', 'post', 'biggest', 'first-quart', 'gain', 'sinc', '1991', '(', 'ccmp', ')', ',', 'surg', '19', 'percent', '.', 'the', 'russel', '2000', 'index', 'small', 'compani', 'declin', '0.2', 'percent', '830.30', 'today', '.', '“', 'there', '’', 'reason', 'avoid', 'equiti', '’', 'gone', 'lot', ',', '”', 'said', 'david', 'kelli', ',', 'help', 'overse', '$', '394', 'billion', 'chief', 'market', 'strategist', 'jpmorgan', 'fund', 'new', 'york', '.', '“', 'peopl', 'less', 'fear', 'global', 'financi', 'meltdown', 'eman', 'europ', '.', 'if', 'look', 'valuat', 'potenti', 'econom', 'growth', ',', 'thing', 'tell', 'market', 'room', 'move', 'higher', 'next', 'year', '.', '”']",[16 13  0 ...  0  0  0],10
+652,2,Some thought on Currency Futures for July,5,3,6,"My currently dynamic monthly level for 6C has shifted lower to 9554
+We may see another small push down, in which case I will go long again. Target 9726. But I want to finish this week out first, so my dynamic level turns static for the month of July. It may continue to shift a little as prices are traded for the remainder of the week. 
+
+http://cdn.hotstockmarket.com/3/30/30569a92_Capture.PNG
+
+A potentially better trade would be in 6N. Same trade concept but it will need a much bigger push to initiate my longs around 7588.
+Target going back up 7960
+
+http://cdn.hotstockmarket.com/0/0a/0aba9ce1_Capture.PNG
+
+Similar swing idea here in 6B. 1.5142 for long. Target 1.545
+
+http://cdn.hotstockmarket.com/4/49/49535418_Capture.PNG
+","['some', 'thought', 'currenc', 'futur', 'juli', 'my', 'current', 'dynam', 'monthli', 'level', '6c', 'shift', 'lower', '9554', 'we', 'may', 'see', 'anoth', 'small', 'push', ',', 'case', 'i', 'go', 'long', '.', 'target', '9726', '.', 'but', 'i', 'want', 'finish', 'week', 'first', ',', 'dynam', 'level', 'turn', 'static', 'month', 'juli', '.', 'it', 'may', 'continu', 'shift', 'littl', 'price', 'trade', 'remaind', 'week', '.', 'http', ':', '//cdn.hotstockmarket.com/3/30/30569a92_capture.png', 'a', 'potenti', 'better', 'trade', 'would', '6n', '.', 'same', 'trade', 'concept', 'need', 'much', 'bigger', 'push', 'initi', 'long', 'around', '7588', '.', 'target', 'go', 'back', '7960', 'http', ':', '//cdn.hotstockmarket.com/0/0a/0aba9ce1_capture.png', 'similar', 'swing', 'idea', '6b', '.', '1.5142', 'long', '.', 'target', '1.545', 'http', ':', '//cdn.hotstockmarket.com/4/49/49535418_capture.png']",[2 8 0 ... 0 0 0],0
+817,3,Mark's Weekly Trading Log (7/1-7/5) Charts Analysis,6,3,2,,"['mark', ""'s"", 'weekli', 'trade', 'log', '(', '7/1-7/5', ')', 'chart', 'analysi', 'nan']",[0 0 0 ... 0 0 0],5
+954,3,And now for today's DAILY DOUBLE (triple?): CLNT,3,0,4,Any one know what set this one on fire?,"['and', 'today', ""'s"", 'daili', 'doubl', '(', 'tripl', '?', ')', ':', 'clnt', 'ani', 'one', 'know', 'set', 'one', 'fire', '?']",[0 0 0 ... 0 0 0],5
+209,9,EUR/AUD Long Opportunity,9,0,8,,"['eur/aud', 'long', 'opportun', 'nan']",[0 0 0 ... 0 0 0],10
+874,1,Tokushima Worldwide: Shell Starts Preliminary Drilling.,8,7,0,,"['tokushima', 'worldwid', ':', 'shell', 'start', 'preliminari', 'drill', '.', 'nan']",[0 1 0 ... 0 0 0],0
+947,3,HLF halted -21%,4,1,1,"Breaking news, cant see reason for the drop or halt yet.","['hlf', 'halt', '-21', '%', 'break', 'news', ',', 'cant', 'see', 'reason', 'drop', 'halt', 'yet', '.']",[1 1 0 ... 0 0 0],5
+980,3,Time for some FAZ &amp; SDS?,3,0,5,"FAZ +2% here, banks look a bit toppy
+
+BAC at $8 is pretty well priced, how much upside is there in the short term?
+
+JPM just had a big run just shy of $39.
+
+The S&amp;P has been struggling in the 1360 range, while Im still leaving the window open for a possible 1380, it is looking weaker today, SDS is the ultrashort ETF currently $16.38.
+
+Im taking some small starter positions to test the waters.
+
+AAPL is being a champ today, still very strong.
+
+What are you guys doing?","['time', 'faz', '&', 'amp', ';', 'sd', '?', 'faz', '+2', '%', ',', 'bank', 'look', 'bit', 'toppi', 'bac', '$', '8', 'pretti', 'well', 'price', ',', 'much', 'upsid', 'short', 'term', '?', 'jpm', 'big', 'run', 'shi', '$', '39', '.', 'the', 's', '&', 'amp', ';', 'p', 'struggl', '1360', 'rang', ',', 'im', 'still', 'leav', 'window', 'open', 'possibl', '1380', ',', 'look', 'weaker', 'today', ',', 'sd', 'ultrashort', 'etf', 'current', '$', '16.38', '.', 'im', 'take', 'small', 'starter', 'posit', 'test', 'water', '.', 'aapl', 'champ', 'today', ',', 'still', 'strong', '.', 'what', 'guy', '?']",[6 4 0 ... 0 0 0],5
+307,6,SPX retracement levels.,7,1,3,"On Friday the SPX dropped to intraday low of 1403.28.  That is 71.23 points from the top of 1474.51.  Many long investors are feeling the pain, if you believe the posts on reddit.
+
+We are now 30 days into this minor correction.  However, 71.23 is still less than 5% from the 4 year high.  In the past 10 years, there's been 25 occurrences where the SPX did not make a new high in 30 day.  Out of the 25, only 2 dropped less than 5%.  Another word, base on past history:
+
+
+**There's a 92% chance the market will drop more before recovering.**
+
+
+Here are the past occurrences, sorted by %drop:
+
+    Date		days	points	%drop
+    20060111	31		41.29	3.19
+    20050103	42		54.05	4.44
+    20030714	35		54.57	5.37
+    20050803	76		77.66	6.23
+    20070222	36		97.59	6.68
+    20110218	45		95.02	7.07
+    20040624	92		85.62	7.47
+    20050307	90		92.96	7.56
+    20060508	94		107.41	8.1
+    20040305	170		102.51	8.81
+    20100119	37		105.95	9.21
+    20111027	50		134		10.37
+    20120402	82		155.64	10.94
+    20070716	58		185.3	11.91
+    20100426	135		208.89	17.12
+    20021202	121		165.38	17.33
+    20020822	193		196.37	20.35
+    20110707	155		281.71	20.77
+    20110502	207		295.81	21.58
+    20090106	100		277.06	29.35
+    20020319	669		405.31	34.53
+    20020107	719		408.34	34.69
+    20080811	628		646.36	49.22
+    20080519	1058	773.45	53.7
+    20071011	1209	909.3	57.69
+
+----------------------------------------
+
+*Note: the criteria I searched for is a new high for previous and next 30 days.*
+","['spx', 'retrac', 'level', '.', 'on', 'friday', 'spx', 'drop', 'intraday', 'low', '1403.28', '.', 'that', '71.23', 'point', 'top', '1474.51', '.', 'mani', 'long', 'investor', 'feel', 'pain', ',', 'believ', 'post', 'reddit', '.', 'we', '30', 'day', 'minor', 'correct', '.', 'howev', ',', '71.23', 'still', 'less', '5', '%', '4', 'year', 'high', '.', 'in', 'past', '10', 'year', ',', ""'s"", '25', 'occurr', 'spx', 'make', 'new', 'high', '30', 'day', '.', 'out', '25', ',', '2', 'drop', 'less', '5', '%', '.', 'anoth', 'word', ',', 'base', 'past', 'histori', ':', '*', '*', 'there', ""'s"", '92', '%', 'chanc', 'market', 'drop', 'recov', '.', '*', '*', 'here', 'past', 'occurr', ',', 'sort', '%', 'drop', ':', 'date', 'day', 'point', '%', 'drop', '20060111', '31', '41.29', '3.19', '20050103', '42', '54.05', '4.44', '20030714', '35', '54.57', '5.37', '20050803', '76', '77.66', '6.23', '20070222', '36', '97.59', '6.68', '20110218', '45', '95.02', '7.07', '20040624', '92', '85.62', '7.47', '20050307', '90', '92.96', '7.56', '20060508', '94', '107.41', '8.1', '20040305', '170', '102.51', '8.81', '20100119', '37', '105.95', '9.21', '20111027', '50', '134', '10.37', '20120402', '82', '155.64', '10.94', '20070716', '58', '185.3', '11.91', '20100426', '135', '208.89', '17.12', '20021202', '121', '165.38', '17.33', '20020822', '193', '196.37', '20.35', '20110707', '155', '281.71', '20.77', '20110502', '207', '295.81', '21.58', '20090106', '100', '277.06', '29.35', '20020319', '669', '405.31', '34.53', '20020107', '719', '408.34', '34.69', '20080811', '628', '646.36', '49.22', '20080519', '1058', '773.45', '53.7', '20071011', '1209', '909.3', '57.69', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '--', '*', 'note', ':', 'criteria', 'i', 'search', 'new', 'high', 'previou', 'next', '30', 'day', '.', '*']",[ 6 10  0 ...  0  0  0],5
+86,13,"Nigel Farage, what are your thoughts on the Euro? :)",15,2,10,,"['nigel', 'farag', ',', 'thought', 'euro', '?', ':', ')', 'nan']",[1 0 0 ... 0 0 0],15
+665,5,Another one for the bear camp,5,0,3,,"['anoth', 'one', 'bear', 'camp', 'nan']",[0 0 0 ... 0 0 0],5
+519,4,"S&amp;P And The ""Blow Off The Top"" 
+Another article of mine",6,2,2,,"['s', '&', 'amp', ';', 'p', 'and', 'the', '``', 'blow', 'off', 'the', 'top', ""''"", 'anoth', 'articl', 'mine', 'nan']",[0 0 0 ... 0 0 0],5
+930,2,Thoughts on AMZN long next week?,5,3,6,,"['thought', 'amzn', 'long', 'next', 'week', '?', 'nan']",[0 0 0 ... 0 0 0],0
+625,5,"ES futures 1297, look for a strong open",5,0,2,"S&amp;P futures are touching 1297, it looks like we might finally crack that 1300 figure.
+
+http://finviz.com/futures_charts.ashx?t=ES&amp;p=m5","['es', 'futur', '1297', ',', 'look', 'strong', 'open', 's', '&', 'amp', ';', 'p', 'futur', 'touch', '1297', ',', 'look', 'like', 'might', 'final', 'crack', '1300', 'figur', '.', 'http', ':', '//finviz.com/futures_charts.ashx', '?', 't=e', '&', 'amp', ';', 'p=m5']",[2 1 0 ... 0 0 0],5
+568,6,An Update on my picks for this week.,9,3,5,"Successful picks:
+
+[DOLE](https://www.tradingview.com/v/mXEILDql/)
+
+[LVS](https://www.tradingview.com/v/tlir8p8a/)
+
+[CHK](https://www.tradingview.com/v/TRkCQE1J/)
+
+Unsuccessful Picks:
+
+[WAG](https://www.tradingview.com/v/4gKAYO2Z/)
+
+Still playing out:
+
+[PFE](https://www.tradingview.com/v/6dBrg0En/)
+
+[SPRD](https://www.tradingview.com/v/5nszxmWj/)
+
+[HPQ](https://www.tradingview.com/v/NFtW1ru7/)
+
+[AME](https://www.tradingview.com/v/eFguqFTy/)
+
+[LNT](https://www.tradingview.com/v/QQo6DUsO/)
+
+
+
+
+
+
+
+
+","['an', 'updat', 'pick', 'week', '.', 'success', 'pick', ':', '[', 'dole', ']', '(', 'http', ':', '//www.tradingview.com/v/mxeildql/', ')', '[', 'lv', ']', '(', 'http', ':', '//www.tradingview.com/v/tlir8p8a/', ')', '[', 'chk', ']', '(', 'http', ':', '//www.tradingview.com/v/trkcqe1j/', ')', 'unsuccess', 'pick', ':', '[', 'wag', ']', '(', 'http', ':', '//www.tradingview.com/v/4gkayo2z/', ')', 'still', 'play', ':', '[', 'pfe', ']', '(', 'http', ':', '//www.tradingview.com/v/6dbrg0en/', ')', '[', 'sprd', ']', '(', 'http', ':', '//www.tradingview.com/v/5nszxmwj/', ')', '[', 'hpq', ']', '(', 'http', ':', '//www.tradingview.com/v/nftw1ru7/', ')', '[', 'ame', ']', '(', 'http', ':', '//www.tradingview.com/v/efguqfty/', ')', '[', 'lnt', ']', '(', 'http', ':', '//www.tradingview.com/v/qqo6duso/', ')']",[0 1 0 ... 0 0 0],5
+518,5,How can I tell when a stock like COH has been oversold? ,11,6,14,,"['how', 'i', 'tell', 'stock', 'like', 'coh', 'oversold', '?', 'nan']",[0 0 0 ... 0 0 0],5
+554,5,"What's your general rationality, or reasoning for things that happen?",6,1,15,"I'm trying to grasp a few things and I think some examples would help me. For example, I notice a lot of times on seemingly _bad_ news, a stock will rally up.. It makes no sense to me. :(","['what', ""'s"", 'gener', 'ration', ',', 'reason', 'thing', 'happen', '?', 'i', ""'m"", 'tri', 'grasp', 'thing', 'i', 'think', 'exampl', 'would', 'help', '.', 'for', 'exampl', ',', 'i', 'notic', 'lot', 'time', 'seemingli', '_bad_', 'news', ',', 'stock', 'ralli', '..', 'it', 'make', 'sens', '.', ':', '(']",[3 2 0 ... 0 0 0],5
+919,3,Ermahgawd! PCX is a $1 stock?,4,1,5,"Last time I looked at PCX it was up at $10-$15, today I see it on the top gainers list:
+
+PCX	Patriot Coal Corp	1.26	17.76%
+
+Holy cow! I did not realize it fell so much over the past year.
+
+http://finviz.com/quote.ashx?t=pcx
+
+Market cap $100M, it became a penny stock.
+
+","['ermahgawd', '!', 'pcx', '$', '1', 'stock', '?', 'last', 'time', 'i', 'look', 'pcx', '$', '10-', '$', '15', ',', 'today', 'i', 'see', 'top', 'gainer', 'list', ':', 'pcx', 'patriot', 'coal', 'corp', '1.26', '17.76', '%', 'holi', 'cow', '!', 'i', 'realiz', 'fell', 'much', 'past', 'year', '.', 'http', ':', '//finviz.com/quote.ashx', '?', 't=pcx', 'market', 'cap', '$', '100m', ',', 'becam', 'penni', 'stock', '.']",[2 2 0 ... 0 0 0],5
+254,8,Good time to short?,10,2,26,,"['good', 'time', 'short', '?', 'nan']",[0 0 0 ... 0 0 0],10
+221,9,"Nikkei going back to 1982 — in particular, the downtrend that began in 1989 and still persists to this day -",14,5,6,,"['nikkei', 'go', 'back', '1982', '—', 'particular', ',', 'downtrend', 'began', '1989', 'still', 'persist', 'day', '-', 'nan']",[1 0 0 ... 0 0 0],10
+992,3,Markets starting to get heavy?,3,0,0,"Last night with the futures hitting 1315 I was pretty sure we would have a good rally day, but things are looking pretty heavy here.
+
+JPM, MS, C putting the pressure on the financials.
+
+ORCL, CSCO weighing in on tech.
+
+NEW YORK (Dow Jones)--Dow and S&amp;P 500 index futures declined as investors weighed Greece's unresolved debt-reduction talks, while Apple's exceptional quarterly results helped prop up the technology sector. 
+","['market', 'start', 'get', 'heavi', '?', 'last', 'night', 'futur', 'hit', '1315', 'i', 'pretti', 'sure', 'would', 'good', 'ralli', 'day', ',', 'thing', 'look', 'pretti', 'heavi', '.', 'jpm', ',', 'ms', ',', 'c', 'put', 'pressur', 'financi', '.', 'orcl', ',', 'csco', 'weigh', 'tech', '.', 'new', 'york', '(', 'dow', 'jone', ')', '--', 'dow', 's', '&', 'amp', ';', 'p', '500', 'index', 'futur', 'declin', 'investor', 'weigh', 'greec', ""'s"", 'unresolv', 'debt-reduct', 'talk', ',', 'appl', ""'s"", 'except', 'quarterli', 'result', 'help', 'prop', 'technolog', 'sector', '.']",[5 4 0 ... 0 0 0],5
+896,3,"Morning MarketBeat: A Dose of Reality, A Dollop of Hopium",3,0,1,,"['morn', 'marketbeat', ':', 'a', 'dose', 'realiti', ',', 'a', 'dollop', 'hopium', 'nan']",[1 0 0 ... 0 0 0],5
+436,6,"S&amp;P 500 Chart Commentary for July 24, 2012",9,3,10,"Here's my updated technical chart for the S&amp;P 500.  Markets rallied at the end of the day to hold the lower bound of the weak up channel, but APPL earnings miss after hours will probably mean a test of the 200 DMA and/or support at the 1315-1320 range tomorrow.
+
+http://i.imgur.com/4flZb.png
+
+PPO and RSI show how little conviction has been behind the current rally, 3rd time RSI has crossed 50.  The market has been rallying in the face of a stronger dollar, but the long term correlation is negative.
+
+The number of S&amp;P 500 stocks above their 50 day moving average turned sharply down over the last 3 days, and a retest of the 50% level seems likely tomorrow.
+
+In relative strength, retail is holding support, but the more broad consumer discretionary has been in a clear relative weakness trend since the beginning of June.
+
+Seeing significant divergence between S&amp;P 500 and several indicators, such as the Consumer Retail / Consumer Staples Relative Strength Indicator.  This indicates a defensive positioning by the market:
+
+http://i.imgur.com/aTVb0.png
+
+As well as divergence with the US Govt 10 Year Bond Yield:
+
+http://i.imgur.com/mrM3G.png
+
+This would lead me to believe a compression will take place in the near future, and that the current price of the S&amp;P 500 is inflated by bets that QE3 or additional liquidity operations will be announced by the Fed at the Aug 1 meeting.
+
+If anyone finds this useful I could probably post these with commentary a couple times a week.  To learn more:
+
+http://stockcharts.com/school/doku.php?id=chart_school
+
+http://www.investopedia.com/
+
+Happy investing,
+
+Nott Capital
+
+* Technical analysis is one tool among many.  Never invest without doing your own technical and fundamental analysis, the macro environment, and the risk/reward ratio.","['s', '&', 'amp', ';', 'p', '500', 'chart', 'commentari', 'juli', '24', ',', '2012', 'here', ""'s"", 'updat', 'technic', 'chart', 's', '&', 'amp', ';', 'p', '500', '.', 'market', 'ralli', 'end', 'day', 'hold', 'lower', 'bound', 'weak', 'channel', ',', 'appl', 'earn', 'miss', 'hour', 'probabl', 'mean', 'test', '200', 'dma', 'and/or', 'support', '1315-1320', 'rang', 'tomorrow', '.', 'http', ':', '//i.imgur.com/4flzb.png', 'ppo', 'rsi', 'show', 'littl', 'convict', 'behind', 'current', 'ralli', ',', '3rd', 'time', 'rsi', 'cross', '50', '.', 'the', 'market', 'ralli', 'face', 'stronger', 'dollar', ',', 'long', 'term', 'correl', 'neg', '.', 'the', 'number', 's', '&', 'amp', ';', 'p', '500', 'stock', '50', 'day', 'move', 'averag', 'turn', 'sharpli', 'last', '3', 'day', ',', 'retest', '50', '%', 'level', 'seem', 'like', 'tomorrow', '.', 'in', 'rel', 'strength', ',', 'retail', 'hold', 'support', ',', 'broad', 'consum', 'discretionari', 'clear', 'rel', 'weak', 'trend', 'sinc', 'begin', 'june', '.', 'see', 'signific', 'diverg', 's', '&', 'amp', ';', 'p', '500', 'sever', 'indic', ',', 'consum', 'retail', '/', 'consum', 'stapl', 'rel', 'strength', 'indic', '.', 'thi', 'indic', 'defens', 'posit', 'market', ':', 'http', ':', '//i.imgur.com/atvb0.png', 'as', 'well', 'diverg', 'us', 'govt', '10', 'year', 'bond', 'yield', ':', 'http', ':', '//i.imgur.com/mrm3g.png', 'thi', 'would', 'lead', 'believ', 'compress', 'take', 'place', 'near', 'futur', ',', 'current', 'price', 's', '&', 'amp', ';', 'p', '500', 'inflat', 'bet', 'qe3', 'addit', 'liquid', 'oper', 'announc', 'fed', 'aug', '1', 'meet', '.', 'if', 'anyon', 'find', 'use', 'i', 'could', 'probabl', 'post', 'commentari', 'coupl', 'time', 'week', '.', 'to', 'learn', ':', 'http', ':', '//stockcharts.com/school/doku.php', '?', 'id=chart_school', 'http', ':', '//www.investopedia.com/', 'happi', 'invest', ',', 'nott', 'capit', '*', 'technic', 'analysi', 'one', 'tool', 'among', 'mani', '.', 'never', 'invest', 'without', 'technic', 'fundament', 'analysi', ',', 'macro', 'environ', ',', 'risk/reward', 'ratio', '.']",[12 11  0 ...  0  0  0],5
+872,3,"AAPL 8.67 vs 8.75 est, stock holding up well",3,0,4,"Not enough iPhone 5's moved, but the stock is holding up well, $613 here.
+
+edit: halted for earnings, last was $613","['aapl', '8.67', 'vs', '8.75', 'est', ',', 'stock', 'hold', 'well', 'not', 'enough', 'iphon', '5', ""'s"", 'move', ',', 'stock', 'hold', 'well', ',', '$', '613', '.', 'edit', ':', 'halt', 'earn', ',', 'last', '$', '613']",[4 1 0 ... 0 0 0],5
+501,4,TSLA -6% dive to 88.25 so far,11,7,10,"Two back to back sessions of hard selling to come off that $114 high.
+
+I think we probably start finding some support in the mid $80 area, but there will be more downside when the broader markets push lower.
+
+","['tsla', '-6', '%', 'dive', '88.25', 'far', 'two', 'back', 'back', 'session', 'hard', 'sell', 'come', '$', '114', 'high', '.', 'i', 'think', 'probabl', 'start', 'find', 'support', 'mid', '$', '80', 'area', ',', 'downsid', 'broader', 'market', 'push', 'lower', '.']",[1 2 0 ... 0 0 0],5
+717,4,Producer prices edge up in June,4,0,0,,"['produc', 'price', 'edg', 'june', 'nan']",[0 0 0 ... 0 0 0],5
+844,4,Quick question,8,4,11,"Hello all, I have a small amount of money to work with (around $3,500) and would like to make some short-term investments. I think the recent tax hike is going to motivate people to be more frugal, so my question is, does anyone know of other companies similar to Groupon that are just generally associated with frugality? ","['quick', 'question', 'hello', ',', 'i', 'small', 'amount', 'money', 'work', '(', 'around', '$', '3,500', ')', 'would', 'like', 'make', 'short-term', 'invest', '.', 'i', 'think', 'recent', 'tax', 'hike', 'go', 'motiv', 'peopl', 'frugal', ',', 'question', ',', 'anyon', 'know', 'compani', 'similar', 'groupon', 'gener', 'associ', 'frugal', '?']",[3 1 0 ... 0 0 0],5
+259,9,JPMorgan Trading Loss Could Reach Up to $9 Billion ,10,1,2,,"['jpmorgan', 'trade', 'loss', 'could', 'reach', 'up', '$', '9', 'billion', 'nan']",[0 0 0 ... 0 0 0],10
+990,3,FB - facebook files S-1 statement,3,0,5,"The S-1 is in, lets get the scoop from ZeroHedge:
+
+The most eagerly awaited IPO of the decade has just filed its S-1 statement (link). Some real time observations:
+
+    Symbol: FB
+    Proposed maximum aggregate offering price: $5 Billion
+    845 million monthly active users (MAU)
+    483 million daily active users (DAU)
+    Users generated on average 2.7 billion Likes and Comments per day in Q4 2011. Er...""liking"" is monetizable?
+    100 billion friendships
+    250 million photos uploaded per day
+    FB generated $3.7 billion in Revenue in 2011, up from $2 billion in 2010
+    FB generated $1 billion in net income in 2011, up from $606 billion in 2010, a 40% growth rate, compared to the 165% growth rate from 2009's $229MM.
+    EBIT margin peaked at 52.3% in 2010 ($1MM in EBIT on $2 billion in revenue), has since declined to 47.3% or $1.756Bn on $3.711Bn in Revenue
+    $3.9 billion in cash and marketable securities
+    Peaked model? - MAU additions peaked in 2010 when FB added 248MM to a total of 608MM; in 2011 it added 237MM to 845MM
+","['fb', '-', 'facebook', 'file', 's-1', 'statement', 'the', 's-1', ',', 'let', 'get', 'scoop', 'zerohedg', ':', 'the', 'eagerli', 'await', 'ipo', 'decad', 'file', 's-1', 'statement', '(', 'link', ')', '.', 'some', 'real', 'time', 'observ', ':', 'symbol', ':', 'fb', 'propos', 'maximum', 'aggreg', 'offer', 'price', ':', '$', '5', 'billion', '845', 'million', 'monthli', 'activ', 'user', '(', 'mau', ')', '483', 'million', 'daili', 'activ', 'user', '(', 'dau', ')', 'user', 'gener', 'averag', '2.7', 'billion', 'like', 'comment', 'per', 'day', 'q4', '2011', '.', 'er', '...', ""''"", 'like', ""''"", 'monetiz', '?', '100', 'billion', 'friendship', '250', 'million', 'photo', 'upload', 'per', 'day', 'fb', 'gener', '$', '3.7', 'billion', 'revenu', '2011', ',', '$', '2', 'billion', '2010', 'fb', 'gener', '$', '1', 'billion', 'net', 'incom', '2011', ',', '$', '606', 'billion', '2010', ',', '40', '%', 'growth', 'rate', ',', 'compar', '165', '%', 'growth', 'rate', '2009', ""'s"", '$', '229mm', '.', 'ebit', 'margin', 'peak', '52.3', '%', '2010', '(', '$', '1mm', 'ebit', '$', '2', 'billion', 'revenu', ')', ',', 'sinc', 'declin', '47.3', '%', '$', '1.756bn', '$', '3.711bn', 'revenu', '$', '3.9', 'billion', 'cash', 'market', 'secur', 'peak', 'model', '?', '-', 'mau', 'addit', 'peak', '2010', 'fb', 'ad', '248mm', 'total', '608mm', ';', '2011', 'ad', '237mm', '845mm']",[6 3 0 ... 0 0 0],5
+526,4,Liberty Interactive acquires voting control of TripAdvisor,6,2,0,"Link Here:
+
+http://investing.businessweek.com/research/stocks/news/article.asp?docKey=600-201212110905BIZWIRE_USPRX____BW5961-1&amp;params=timestamp%7C%7C12/11/2012%209:05%20AM%20ET%7C%7Cheadline%7C%7CLiberty%20Interactive%20Corporation%20Acquires%20Voting%20Control%20of%20TripAdvisor%2C%20Inc.%7C%7CdocSource%7C%7CBusiness%20Wire%7C%7Cprovider%7C%7CACQUIREMEDIA%7C%7Cbridgesymbol%7C%7CUS;TRIP&amp;ticker=TRIP
+
+I am so glad I held onto this position.  I had a limit sell order in at $40.50, and it executed this AM for $47.00.  Shares are now back to $41.60.
+
+I now have a liquidate gain on my portfolio of 33% for the year.  No more purchases for me until January :D","['liberti', 'interact', 'acquir', 'vote', 'control', 'tripadvisor', 'link', 'here', ':', 'http', ':', '//investing.businessweek.com/research/stocks/news/article.asp', '?', 'dockey=600-201212110905bizwire_usprx____bw5961-1', '&', 'amp', ';', 'params=timestamp', '%', '7c', '%', '7c12/11/2012', '%', '209:05', '%', '20am', '%', '20et', '%', '7c', '%', '7cheadlin', '%', '7c', '%', '7cliberti', '%', '20interact', '%', '20corpor', '%', '20acquir', '%', '20vote', '%', '20control', '%', '20of', '%', '20tripadvisor', '%', '2c', '%', '20inc.', '%', '7c', '%', '7cdocsourc', '%', '7c', '%', '7cbusi', '%', '20wire', '%', '7c', '%', '7cprovid', '%', '7c', '%', '7cacquiremedia', '%', '7c', '%', '7cbridgesymbol', '%', '7c', '%', '7cu', ';', 'trip', '&', 'amp', ';', 'ticker=trip', 'i', 'glad', 'i', 'held', 'onto', 'posit', '.', 'i', 'limit', 'sell', 'order', '$', '40.50', ',', 'execut', 'am', '$', '47.00', '.', 'share', 'back', '$', '41.60', '.', 'i', 'liquid', 'gain', 'portfolio', '33', '%', 'year', '.', 'no', 'purchas', 'januari', ':', 'd']",[1 4 0 ... 0 0 0],5
+55,15,"S&amp;P new highs over 1600! U.S. Added 165,000 Jobs in April",16,1,9,,"['s', '&', 'amp', ';', 'p', 'new', 'high', '1600', '!', 'u.s.', 'ad', '165,000', 'job', 'april', 'nan']",[0 0 0 ... 0 0 0],15
+601,5,Apr 12 biggest morning movers,5,0,1,"Stocks making the biggest gains at the 10'oclock hour are:
+
+SINO	Sino-Global Ship America Ltd	5.25	31.91%
+
+FET	Forum Energy Technologies Inc	22.35	11.75%
+
+CYT	Cytec Indus	64.15	11.58%
+
+FIO	Fusion-io Inc	26.63	7.99%
+
+RDC	Rowan Cos	33.48	7.98%
+
+GTE	Gran Tierra Energy Inc	6.47	7.81%
+
+ZOLT	Zoltek Companies Inc	11.08	7.78%
+
+EGO	Eldorado Gold Corp	13.75	7.00%
+
+GDP	Goodrich Petroleum	16.20	6.84%
+
+WAB	Wabtec Corp	75.95	6.52%
+
+
+**These stocks are not recommendations of any kind, they are just the biggest movers sorted by percentage gains**
+
+","['apr', '12', 'biggest', 'morn', 'mover', 'stock', 'make', 'biggest', 'gain', ""10'oclock"", 'hour', ':', 'sino', 'sino-glob', 'ship', 'america', 'ltd', '5.25', '31.91', '%', 'fet', 'forum', 'energi', 'technolog', 'inc', '22.35', '11.75', '%', 'cyt', 'cytec', 'indu', '64.15', '11.58', '%', 'fio', 'fusion-io', 'inc', '26.63', '7.99', '%', 'rdc', 'rowan', 'co', '33.48', '7.98', '%', 'gte', 'gran', 'tierra', 'energi', 'inc', '6.47', '7.81', '%', 'zolt', 'zoltek', 'compani', 'inc', '11.08', '7.78', '%', 'ego', 'eldorado', 'gold', 'corp', '13.75', '7.00', '%', 'gdp', 'goodrich', 'petroleum', '16.20', '6.84', '%', 'wab', 'wabtec', 'corp', '75.95', '6.52', '%', '*', '*', 'these', 'stock', 'recommend', 'kind', ',', 'biggest', 'mover', 'sort', 'percentag', 'gain', '*', '*']",[1 0 0 ... 0 0 0],5
+531,6,"Wall Street Breakfast: Must-Know News November 12, 2012",9,3,0,,"['wall', 'street', 'breakfast', ':', 'must-know', 'new', 'novemb', '12', ',', '2012', 'nan']",[1 0 0 ... 0 0 0],5
+120,10,Cold Shower for the Economy: Third Quarter GDP Seen at Just 1.6%,12,2,2,,"['cold', 'shower', 'economi', ':', 'third', 'quarter', 'gdp', 'seen', 'just', '1.6', '%', 'nan']",[0 0 0 ... 0 0 0],10
+783,6,Bear ETFs kicking in,6,0,17,"Finally a breather to the downside!
+
+FAZ SDS TZA doing nicely this morning.
+
+My TVIX is the only one thats beings stubborn.","['bear', 'etf', 'kick', 'final', 'breather', 'downsid', '!', 'faz', 'sd', 'tza', 'nice', 'morn', '.', 'my', 'tvix', 'one', 'that', 'be', 'stubborn', '.']",[0 2 0 ... 0 0 0],5
+25,20,"With Cannabis slowly edging towards full legality, what steps can I take to take full advantage of the sure-to-come market boom of Cannabis?",26,6,27,"The drug itself is a multi-billion dollar commodity in the black market. But once it expands to the global market it will make many smart business men very very rich. The real icing on the cake is that cannabis has a huge potential to expand into other areas other than recreational use such as medicine and hemp. The potential is astronomical in my opinion.
+
+Any advice in the realm of investing? Thanks! ","['with', 'cannabi', 'slowli', 'edg', 'toward', 'full', 'legal', ',', 'step', 'i', 'take', 'take', 'full', 'advantag', 'sure-to-com', 'market', 'boom', 'cannabi', '?', 'the', 'drug', 'multi-billion', 'dollar', 'commod', 'black', 'market', '.', 'but', 'expand', 'global', 'market', 'make', 'mani', 'smart', 'busi', 'men', 'rich', '.', 'the', 'real', 'ice', 'cake', 'cannabi', 'huge', 'potenti', 'expand', 'area', 'recreat', 'use', 'medicin', 'hemp', '.', 'the', 'potenti', 'astronom', 'opinion', '.', 'ani', 'advic', 'realm', 'invest', '?', 'thank', '!']",[1 4 0 ... 0 0 0],20
+72,16,Self-Directed Learning: How to Trade,18,2,1,"Just thought I would post up a few forum threads that I have found useful over the years. Please keep in mind that I have never met any of people who make these threads, and cannot verify any claims that they make. However, each thread has provided me with useful information to learn from and has perhaps introduced a new trading concept that I had not previously discovered.
+
+I would suggest that maintaining a healthy dose of skepticism is in your best interests when reading anything trading related online. But hopefully, the information contained within these threads can help to steer you in the right direction in trying to figure this game out.
+
+This list is in no way exhaustive, and just contains threads that have come to mind at this moment in time. In no particular order:
+
+[Trading Naked - Part 2](http://www.trade2win.com/boards/forex-strategies-systems/77580-trading-naked-part-2-a.html)
+
+[AHG - Profitable Strategy for Struggling Traders](http://www.elitetrader.com/vb/showthread.php?threadid=99283)
+
+[Reading Charts in Real Time](http://www.traderslaboratory.com/forums/trading-markets/6151-reading-charts-real-time.html)
+
+[Fail Better](http://www.forexfactory.com/showthread.php?t=287794)
+
+[Building an Equity Millipede](http://www.forexfactory.com/showthread.php?t=245149)
+
+[The System II (Yes with irony)](http://www.forexfactory.com/showthread.php?t=80290)
+
+There is a lot of useful information out there in internet-land. Spend some time acquainting yourself with that which is available to you free of charge.","['self-direct', 'learn', ':', 'how', 'trade', 'just', 'thought', 'i', 'would', 'post', 'forum', 'thread', 'i', 'found', 'use', 'year', '.', 'pleas', 'keep', 'mind', 'i', 'never', 'met', 'peopl', 'make', 'thread', ',', 'verifi', 'claim', 'make', '.', 'howev', ',', 'thread', 'provid', 'use', 'inform', 'learn', 'perhap', 'introduc', 'new', 'trade', 'concept', 'i', 'previous', 'discov', '.', 'i', 'would', 'suggest', 'maintain', 'healthi', 'dose', 'skeptic', 'best', 'interest', 'read', 'anyth', 'trade', 'relat', 'onlin', '.', 'but', 'hope', ',', 'inform', 'contain', 'within', 'thread', 'help', 'steer', 'right', 'direct', 'tri', 'figur', 'game', '.', 'thi', 'list', 'way', 'exhaust', ',', 'contain', 'thread', 'come', 'mind', 'moment', 'time', '.', 'in', 'particular', 'order', ':', '[', 'trade', 'nake', '-', 'part', '2', ']', '(', 'http', ':', '//www.trade2win.com/boards/forex-strategies-systems/77580-trading-naked-part-2-a.html', ')', '[', 'ahg', '-', 'profit', 'strategi', 'struggl', 'trader', ']', '(', 'http', ':', '//www.elitetrader.com/vb/showthread.php', '?', 'threadid=99283', ')', '[', 'read', 'chart', 'real', 'time', ']', '(', 'http', ':', '//www.traderslaboratory.com/forums/trading-markets/6151-reading-charts-real-time.html', ')', '[', 'fail', 'better', ']', '(', 'http', ':', '//www.forexfactory.com/showthread.php', '?', 't=287794', ')', '[', 'build', 'equiti', 'milliped', ']', '(', 'http', ':', '//www.forexfactory.com/showthread.php', '?', 't=245149', ')', '[', 'the', 'system', 'ii', '(', 'ye', 'ironi', ')', ']', '(', 'http', ':', '//www.forexfactory.com/showthread.php', '?', 't=80290', ')', 'there', 'lot', 'use', 'inform', 'internet-land', '.', 'spend', 'time', 'acquaint', 'avail', 'free', 'charg', '.']",[4 8 0 ... 0 0 0],15
+44,15,The Bernanke flash game by WSJ,23,8,11,"If you want to see how hard it is to be Bernanke, this simulator could help!
+
+lol
+
+http://projects.wsj.com/games/thefederator/?mg=inert-wsj","['the', 'bernank', 'flash', 'game', 'wsj', 'if', 'want', 'see', 'hard', 'bernank', ',', 'simul', 'could', 'help', '!', 'lol', 'http', ':', '//projects.wsj.com/games/thefederator/', '?', 'mg=inert-wsj']",[1 0 0 ... 0 0 0],15
+231,8,Mark's Weekly Log; Charts and Analysis,9,1,0,,"['mark', ""'s"", 'weekli', 'log', ';', 'chart', 'analysi', 'nan']",[0 0 0 ... 0 0 0],10
+352,7,AAPL announces divi,11,4,11,,"['aapl', 'announc', 'divi', 'nan']",[0 0 0 ... 0 0 0],5
+275,7,"Classic trading texts of one of the greatest of all time, Livermore",8,1,8,"How to trade in stocks original version:
+
+http://os24.org/files/a-z/speculation/Jesse_Livermore-How_To_Trade_In_Stocks_(1940_original)-EN.pdf
+
+Speculation as a fine art:
+
+http://os24.org/files/a-z/speculation/Dickson_G_Watts-Speculation_as_a_Fine_Art-EN.pdf
+
+Trade like Jesse Livermore:
+
+http://os24.org/files/a-z/speculation/Richard_Smitten-Trade_Like_Jesse_Livermore-EN.pdf
+
+Memoirs of Extraordinary Popular Delusions and the Madness of Crowds:
+
+http://www.gutenberg.org/browse/authors/m#a516","['classic', 'trade', 'text', 'one', 'greatest', 'time', ',', 'livermor', 'how', 'trade', 'stock', 'origin', 'version', ':', 'http', ':', '//os24.org/files/a-z/speculation/jesse_livermore-how_to_trade_in_stocks_', '(', '1940_origin', ')', '-en.pdf', 'specul', 'fine', 'art', ':', 'http', ':', '//os24.org/files/a-z/speculation/dickson_g_watts-speculation_as_a_fine_art-en.pdf', 'trade', 'like', 'jess', 'livermor', ':', 'http', ':', '//os24.org/files/a-z/speculation/richard_smitten-trade_like_jesse_livermore-en.pdf', 'memoir', 'extraordinari', 'popular', 'delus', 'mad', 'crowd', ':', 'http', ':', '//www.gutenberg.org/browse/authors/m', '#', 'a516']",[1 0 0 ... 0 0 0],5
+289,8,Shorts/Bears: What's your favorite stock screen to identify the next short opportunity?,8,0,9,"These days I use Finviz, and I look for the stocks with high PE's that popped due to good earnings. I hope for a slight correction that can turn a little profit. What about you?","['shorts/bear', ':', 'what', ""'s"", 'favorit', 'stock', 'screen', 'identifi', 'next', 'short', 'opportun', '?', 'these', 'day', 'i', 'use', 'finviz', ',', 'i', 'look', 'stock', 'high', 'pe', ""'s"", 'pop', 'due', 'good', 'earn', '.', 'i', 'hope', 'slight', 'correct', 'turn', 'littl', 'profit', '.', 'what', '?']",[1 2 0 ... 0 0 0],10
+675,4,"Any thoughts on Peregrine Pharmaceuticals, Inc. (PPHM), Stock Jock e what do your charts say ?",8,4,4,,"['ani', 'thought', 'peregrin', 'pharmaceut', ',', 'inc.', '(', 'pphm', ')', ',', 'stock', 'jock', 'e', 'chart', 'say', '?', 'nan']",[2 0 0 ... 0 0 0],5
+668,4,Next Week’s Tape: Ringing In ’13 With Another Jobs Report,5,1,0,,"['next', 'week', '’', 'tape', ':', 'ring', 'in', '’', '13', 'with', 'anoth', 'job', 'report', 'nan']",[0 0 0 ... 0 0 0],5
+310,7,Weird splits,8,1,2,"Google finance shows a split for Acer of 992:991 in 2010.  Why would a company have such a strange split?
+
+http://www.google.com/finance?q=TPE%3A2353&amp;sq=acer&amp;sp=1&amp;ei=Hjt2UJjRDKOqiQKQigE
+","['weird', 'split', 'googl', 'financ', 'show', 'split', 'acer', '992:991', '2010', '.', 'whi', 'would', 'compani', 'strang', 'split', '?', 'http', ':', '//www.google.com/fin', '?', 'q=tpe', '%', '3a2353', '&', 'amp', ';', 'sq=acer', '&', 'amp', ';', 'sp=1', '&', 'amp', ';', 'ei=hjt2ujjrdkoqiqkqig']",[0 1 0 ... 0 0 0],5
+549,5,I am going in on AONE.. looking to gain 20%,6,1,12,I think shorts are covering and longs are getting excited enough to drive it back to .60 over the next 5-10 days... What say you?,"['i', 'go', 'aon', '..', 'look', 'gain', '20', '%', 'i', 'think', 'short', 'cover', 'long', 'get', 'excit', 'enough', 'drive', 'back', '.60', 'next', '5-10', 'day', '...', 'what', 'say', '?']",[0 0 0 ... 0 0 0],5
+697,4,Ouch.. GRPN $5.50 -27%,8,4,10,,"['ouch', '..', 'grpn', '$', '5.50', '-27', '%', 'nan']",[0 0 0 ... 0 0 0],5
+478,5,Multistage Scale In/Scale Out - S&amp;P Futures Long,6,1,4,,"['multistag', 'scale', 'in/scal', 'out', '-', 's', '&', 'amp', ';', 'p', 'futur', 'long', 'nan']",[0 0 0 ... 0 0 0],5
+218,8,We had a 10 year megaphone top in the 70's in the S&amp;P. Is it happening again?,11,3,24,"1966-1975 http://stockcharts.com/freecharts/historical/spx1960.html
+
+And 2001-201X?
+
+Megaphone top http://trending123.com/patterns/reverse_symmetrical_triangle.html","['we', '10', 'year', 'megaphon', 'top', '70', ""'s"", 's', '&', 'amp', ';', 'p.', 'is', 'happen', '?', '1966-1975', 'http', ':', '//stockcharts.com/freecharts/historical/spx1960.html', 'and', '2001-201x', '?', 'megaphon', 'top', 'http', ':', '//trending123.com/patterns/reverse_symmetrical_triangle.html']",[0 0 0 ... 0 0 0],10
+266,7,Is there anyone willing to make an argument for why Facebook stock will make a rebound in the coming weeks?,12,5,20,"All I seem to be reading is why it will continue to fail, wondering if anyone can give me any hope before I bail and sell all my shares as well. Thanks so much!","['is', 'anyon', 'will', 'make', 'argument', 'facebook', 'stock', 'make', 'rebound', 'come', 'week', '?', 'all', 'i', 'seem', 'read', 'continu', 'fail', ',', 'wonder', 'anyon', 'give', 'hope', 'i', 'bail', 'sell', 'share', 'well', '.', 'thank', 'much', '!']",[1 1 0 ... 0 0 0],5
+936,3,"Facebook Investor Status: ""Gullible"" ...Ponzi Scheme?",7,4,2,,"['facebook', 'investor', 'statu', ':', '``', 'gullibl', ""''"", '...', 'ponzi', 'scheme', '?', 'nan']",[0 0 0 ... 0 0 0],5
+286,7,Anybody use Japanese Candlestick Analysis?  Is the candle in AAPL's weekly chart a hammer?,14,7,12,,"['anybodi', 'use', 'japanes', 'candlestick', 'analysi', '?', 'is', 'candl', 'aapl', ""'s"", 'weekli', 'chart', 'hammer', '?', 'nan']",[0 0 0 ... 0 0 0],5
+346,7,Biggest % gainers May 2nd,9,2,2,"Heading into the 11 o'clock hour, here are this mornings movers:
+
+SMSC	Standard Microsystems	36.29	38.30%
+
+CHRS	Charming Shoppes	7.29	23.56%
+
+WWWW	Web.com Group Inc	15.75	22.47%
+
+RLOC	ReachLocal Inc	9.03	19.92%
+
+SRZ	Sunrise Senior Living	7.37	18.49%
+
+TRIP	TripAdvisor Inc When-Issued	43.00	17.71%
+
+PZZA	Papa John's Intl	46.01	16.51%
+
+AZPN	Aspen Technology	22.32	14.17%
+
+PLX	Protalix BioTherapeutics Inc	7.02	13.41%
+
+FORM	Formfactor Inc	6.45	13.36%
+","['biggest', '%', 'gainer', 'may', '2nd', 'head', '11', ""o'clock"", 'hour', ',', 'morn', 'mover', ':', 'smsc', 'standard', 'microsystem', '36.29', '38.30', '%', 'chr', 'charm', 'shopp', '7.29', '23.56', '%', 'wwww', 'web.com', 'group', 'inc', '15.75', '22.47', '%', 'rloc', 'reachloc', 'inc', '9.03', '19.92', '%', 'srz', 'sunris', 'senior', 'live', '7.37', '18.49', '%', 'trip', 'tripadvisor', 'inc', 'when-issu', '43.00', '17.71', '%', 'pzza', 'papa', 'john', ""'s"", 'intl', '46.01', '16.51', '%', 'azpn', 'aspen', 'technolog', '22.32', '14.17', '%', 'plx', 'protalix', 'biotherapeut', 'inc', '7.02', '13.41', '%', 'form', 'formfactor', 'inc', '6.45', '13.36', '%']",[1 0 0 ... 0 0 0],5
+60,14,Warren Buffett's 2012 Letter to Shaeholders,17,3,0,,"['warren', 'buffett', ""'s"", '2012', 'letter', 'shaehold', 'nan']",[0 0 0 ... 0 0 0],15
+462,6,Spanish IBEX market closes -2.7%,6,0,8,"Nobody seems to care much, its still too early, but the Spanish IBEX 35 index has been dropping hard this week, closing at the lows today -2.7%
+
+[Here is the 6 month chart](http://bigcharts.marketwatch.com/kaavio.Webhost/charts/big.chart?nosettings=1&amp;symb=XX%3aIBEX&amp;uf=0&amp;type=4&amp;size=3&amp;sid=10360017&amp;style=330&amp;freq=1&amp;entitlementtoken=0c33378313484ba9b46b8e24ded87dd6&amp;time=7&amp;rand=1719864889&amp;compidx=aaaaa%3a0&amp;ma=0&amp;maval=9&amp;lf=1&amp;lf2=4&amp;lf3=0&amp;height=665&amp;width=720&amp;mocktick=1).
+","['spanish', 'ibex', 'market', 'close', '-2.7', '%', 'nobodi', 'seem', 'care', 'much', ',', 'still', 'earli', ',', 'spanish', 'ibex', '35', 'index', 'drop', 'hard', 'week', ',', 'close', 'low', 'today', '-2.7', '%', '[', 'here', '6', 'month', 'chart', ']', '(', 'http', ':', '//bigcharts.marketwatch.com/kaavio.webhost/charts/big.chart', '?', 'nosettings=1', '&', 'amp', ';', 'symb=xx', '%', '3aibex', '&', 'amp', ';', 'uf=0', '&', 'amp', ';', 'type=4', '&', 'amp', ';', 'size=3', '&', 'amp', ';', 'sid=10360017', '&', 'amp', ';', 'style=330', '&', 'amp', ';', 'freq=1', '&', 'amp', ';', 'entitlementtoken=0c33378313484ba9b46b8e24ded87dd6', '&', 'amp', ';', 'time=7', '&', 'amp', ';', 'rand=1719864889', '&', 'amp', ';', 'compidx=aaaaa', '%', '3a0', '&', 'amp', ';', 'ma=0', '&', 'amp', ';', 'maval=9', '&', 'amp', ';', 'lf=1', '&', 'amp', ';', 'lf2=4', '&', 'amp', ';', 'lf3=0', '&', 'amp', ';', 'height=665', '&', 'amp', ';', 'width=720', '&', 'amp', ';', 'mocktick=1', ')', '.']",[3 1 0 ... 0 0 0],5
+993,3,CCL takes hit on cruise line disaster,3,0,0,"http://finviz.com/quote.ashx?t=CCL&amp;ty=c&amp;ta=1&amp;p=d
+
+CCL -14% hit on the Italian disaster.
+
+Its terrible, all those poor people missing or dead. 
+
+Ive been a few Carnival cruises, I cant imagine what it must have been like.
+
+http://finance.yahoo.com/news/Analysts-mull-impact-accident-apf-1235256250.html?x=0","['ccl', 'take', 'hit', 'cruis', 'line', 'disast', 'http', ':', '//finviz.com/quote.ashx', '?', 't=ccl', '&', 'amp', ';', 'ty=c', '&', 'amp', ';', 'ta=1', '&', 'amp', ';', 'p=d', 'ccl', '-14', '%', 'hit', 'italian', 'disast', '.', 'it', 'terribl', ',', 'poor', 'peopl', 'miss', 'dead', '.', 'ive', 'carniv', 'cruis', ',', 'i', 'cant', 'imagin', 'must', 'like', '.', 'http', ':', '//finance.yahoo.com/news/analysts-mull-impact-accident-apf-1235256250.html', '?', 'x=0']",[2 3 0 ... 1 1 0],5
+545,6,AlphaTrends market wrap for week ending Oct 12,7,1,0,,"['alphatrend', 'market', 'wrap', 'week', 'end', 'oct', '12', 'nan']",[0 0 0 ... 0 0 0],5
+377,7,Does this mean we have topped?,11,4,21,,"['doe', 'mean', 'top', '?', 'nan']",[0 0 0 ... 0 0 0],5
+589,3,Egan Jones Downgrades The UK From AA To AA-,6,3,3,,"['egan', 'jone', 'downgrad', 'the', 'uk', 'from', 'aa', 'to', 'aa-', 'nan']",[0 0 0 ... 0 0 0],5
+365,7,USDJPY and S&amp;P divergence,8,1,8,,"['usdjpi', 's', '&', 'amp', ';', 'p', 'diverg', 'nan']",[0 0 0 ... 0 0 0],5
+292,8,You obviously did not buy your GF a Coach purse. COH -15%,9,1,4,,"['you', 'obvious', 'buy', 'gf', 'coach', 'purs', '.', 'coh', '-15', '%', 'nan']",[0 1 0 ... 0 0 0],10
+693,4,"Top 10 mover for today, which is actually the 31st",4,0,6,"Not like yesterday which was not the 31st, so today I get the date right!
+
+Silver and gold getting a move off Bernanke, so that 3x ETF is seeing some action.
+
+SPLK	Splunk Inc	35.30	15.74%
+
+SRPT	Sarepta Therapeutics Inc	16.13	12.01%
+
+ESL	Esterline Technologies	58.79	11.05%
+
+USLV	VS 3X Silver	30.95	8.79%
+
+TC	Thompson Creek Metals Co Inc	2.73	8.76%
+
+ZLC	ZALE Corp	5.46	8.55%
+
+CAS	Castle (a.m.)	12.92	8.38%
+
+NUGT	Direxion Dly Gold Miners 3X BL	12.38	7.84%
+
+SVM	SilverCorp Metals Inc	5.82	6.79%
+
+SSRI	Silver Standard Resources	14.66	6.72%
+
+","['top', '10', 'mover', 'today', ',', 'actual', '31st', 'not', 'like', 'yesterday', '31st', ',', 'today', 'i', 'get', 'date', 'right', '!', 'silver', 'gold', 'get', 'move', 'bernank', ',', '3x', 'etf', 'see', 'action', '.', 'splk', 'splunk', 'inc', '35.30', '15.74', '%', 'srpt', 'sarepta', 'therapeut', 'inc', '16.13', '12.01', '%', 'esl', 'esterlin', 'technolog', '58.79', '11.05', '%', 'uslv', 'vs', '3x', 'silver', '30.95', '8.79', '%', 'tc', 'thompson', 'creek', 'metal', 'co', 'inc', '2.73', '8.76', '%', 'zlc', 'zale', 'corp', '5.46', '8.55', '%', 'ca', 'castl', '(', 'a.m.', ')', '12.92', '8.38', '%', 'nugt', 'direxion', 'dli', 'gold', 'miner', '3x', 'bl', '12.38', '7.84', '%', 'svm', 'silvercorp', 'metal', 'inc', '5.82', '6.79', '%', 'ssri', 'silver', 'standard', 'resourc', '14.66', '6.72', '%']",[3 1 0 ... 0 0 0],5
+425,7,"Markets are up, so the headline is...",10,3,3,,"['market', ',', 'headlin', '...', 'nan']",[1 0 0 ... 0 0 0],5
+523,5,US House Approves Legislation Averting 'Fiscal Cliff',5,0,4,,"['us', 'hous', 'approv', 'legisl', 'avert', ""'fiscal"", ""cliff'"", 'nan']",[0 0 0 ... 0 0 0],5
+453,6,Biggest % movers June 1st,6,0,2,"Markets are down again sharply this morning. Biggest movers into the first 30min of trading are:
+
+BFED	Beacon Federal Bancorp Inc	19.44	46.17%
+
+PIP	Pharmathene Inc	1.73	41.81%
+
+NUGT	Direxion Dly Gold Miners 3X BL	12.18	15.12%
+
+UVXY	ProShares Ultra VIX Short-Term	22.24	11.09%
+
+TVIX	VS 2X VIX Short Term	9.99	9.66%
+
+RUSS	Direxion Daily Russia Bear 3x	45.18	8.32%
+
+UGLD	VS 3X Gold	39.20	8.11%
+
+GSS	Golden Star Resources	1.15	8.02%
+
+DGAZ	VS 3x Inverse Natural Gas ETN	72.72	7.97%
+
+IAG	IAMGold Corp	11.42	7.03%
+","['biggest', '%', 'mover', 'june', '1st', 'market', 'sharpli', 'morn', '.', 'biggest', 'mover', 'first', '30min', 'trade', ':', 'bfed', 'beacon', 'feder', 'bancorp', 'inc', '19.44', '46.17', '%', 'pip', 'pharmathen', 'inc', '1.73', '41.81', '%', 'nugt', 'direxion', 'dli', 'gold', 'miner', '3x', 'bl', '12.18', '15.12', '%', 'uvxi', 'proshar', 'ultra', 'vix', 'short-term', '22.24', '11.09', '%', 'tvix', 'vs', '2x', 'vix', 'short', 'term', '9.99', '9.66', '%', 'russ', 'direxion', 'daili', 'russia', 'bear', '3x', '45.18', '8.32', '%', 'ugld', 'vs', '3x', 'gold', '39.20', '8.11', '%', 'gss', 'golden', 'star', 'resourc', '1.15', '8.02', '%', 'dgaz', 'vs', '3x', 'invers', 'natur', 'ga', 'etn', '72.72', '7.97', '%', 'iag', 'iamgold', 'corp', '11.42', '7.03', '%']",[0 1 0 ... 0 0 0],5
+199,10,FSLR +26% break out on profit jump,10,0,4,,"['fslr', '+26', '%', 'break', 'profit', 'jump', 'nan']",[0 0 0 ... 0 0 0],10
+110,9,Customs records contradict Kandi Technologies Corp.’s electric-vehicle sales claims,11,2,0,,"['custom', 'record', 'contradict', 'kandi', 'technolog', 'corp.', '’', 'electric-vehicl', 'sale', 'claim', 'nan']",[0 0 0 ... 0 0 0],10
+819,3,GDX bloodbath. Anybody like the miners? Bonus head n shoulders in chart.,4,1,13,,"['gdx', 'bloodbath', '.', 'anybodi', 'like', 'miner', '?', 'bonu', 'head', 'n', 'shoulder', 'chart', '.', 'nan']",[0 2 0 ... 0 0 0],5
+477,5,Hey stock market reddit... new investor here.. ,6,1,4,"i am just now getting into the stock market.. looking to purchase stocks that are below the 10.00 a share range.. With the recent downgrade and plummeting stocks, it seems that everything is on sale.. What stocks should i invest in????
+
+any tips for the new guy???","['hey', 'stock', 'market', 'reddit', '...', 'new', 'investor', '..', 'get', 'stock', 'market', '..', 'look', 'purchas', 'stock', '10.00', 'share', 'rang', '..', 'with', 'recent', 'downgrad', 'plummet', 'stock', ',', 'seem', 'everyth', 'sale', '..', 'what', 'stock', 'invest', '?', '?', '?', '?', 'tip', 'new', 'guy', '?', '?', '?']",[1 0 0 ... 0 0 0],5
+331,7,Stock Market Today: Top 10 % movers for June 26,8,1,1,"As of 10:20am here are the top 10 movers making the biggest percentage moves. 
+
+Nothing much I recognize except for that ROSG yet again.
+
+SUPN	Supernus Pharmaceuticals Inc	12.60	120.67%
+
+AEZS(F)	AEterna Zentaris Inc	0.56	23.38%
+
+FUL	Fuller (H.B.)	31.12	8.32%
+
+ANTH	Anthera Pharmaceuticals Inc	3.11	8.29%
+
+ATRS	ATRS	3.89	8.06%
+
+LEE	LEE Enterprises	1.66	7.79%
+
+SQNM	Sequenom Inc	4.20	7.56%
+
+LPR	Lone Pine Resources Inc	2.42	7.56%
+
+ROSG	Rosetta Genomics Ltd	12.61	7.32%
+
+NWS	News Corp Ltd ADS 'B'	21.76	7.30%
+
+","['stock', 'market', 'today', ':', 'top', '10', '%', 'mover', 'june', '26', 'as', '10:20am', 'top', '10', 'mover', 'make', 'biggest', 'percentag', 'move', '.', 'noth', 'much', 'i', 'recogn', 'except', 'rosg', 'yet', '.', 'supn', 'supernu', 'pharmaceut', 'inc', '12.60', '120.67', '%', 'aez', '(', 'f', ')', 'aeterna', 'zentari', 'inc', '0.56', '23.38', '%', 'ful', 'fuller', '(', 'h.b', '.', ')', '31.12', '8.32', '%', 'anth', 'anthera', 'pharmaceut', 'inc', '3.11', '8.29', '%', 'atr', 'atr', '3.89', '8.06', '%', 'lee', 'lee', 'enterpris', '1.66', '7.79', '%', 'sqnm', 'sequenom', 'inc', '4.20', '7.56', '%', 'lpr', 'lone', 'pine', 'resourc', 'inc', '2.42', '7.56', '%', 'rosg', 'rosetta', 'genom', 'ltd', '12.61', '7.32', '%', 'nw', 'new', 'corp', 'ltd', 'ad', ""'"", ""b'"", '21.76', '7.30', '%']",[0 3 0 ... 0 0 0],5
+261,8,Gotta love this post on ZeroHedge today by user 'adr',15,7,8,"""Today is another most hated stock ramp day. Anyone want to take a look at airline rates and think people are going to travel? Doesn't hurt Priceline though. Tickets that were $250 are now $50, Priceline soars.
+
+Fucking Facebook is on a tear. Lulu, CMG, all the greatest hits are at least 2% gainers for no apparent reason other than, ""THE ECONOMY SUCKS, MORE STIMULUS""
+
+Apple announces they are going to give their shitty employees at Apple stores a raise and the stock soars. I thought paying employees more is supposed to tank a stock because it means less profit. OH YEAH I FORGOT, everyone will work at an Apple store and buy Apple shit, ECONOMIC PROBLEMS SOLVED!!!!
+
+We will never have a correction because the Fed will just step in and buy stocks, causing all the momo traders to buy so they don't miss an uptick rally. I'm having fun looking at all the parabolic 2 day charts. It's like praising the picture the neighbors retard gives you.
+
+DAMMIT! I MISSED $5 TO THE UPSIDE OF FACEBOOK, I GOTTA BUY IT NOW SO I DON'T MISS THE RALLY!!!!
+
+That is the only fundamental left in the market. Not missing a rally. Doesn't matter if it's bullshit. At least oil didn't go to $90 today, doesn't matter because gas is still selling for the same price as it was when oil was $105.
+
+Either the insiders already know QE3 is going to be $2 trillion or they are really, really, stupid. I still don't get why stocks would take off before the money is handed out. Wouldn't you want to profit more off the free cash? Driving stocks up just makes it more expensive to buy more shares with Benny Bux.""
+
+
+
+- I tend to be of the same opinion today, although I must admit I'm a bit biased toward the bear side.  At least until we clear up this $15 trillion debt thing domestically and a few hundred trillion globally in nominal derivatives out there.  Can't wait for Wednesday.","['got', 'ta', 'love', 'post', 'zerohedg', 'today', 'user', ""'adr'"", ""''"", 'today', 'anoth', 'hate', 'stock', 'ramp', 'day', '.', 'anyon', 'want', 'take', 'look', 'airlin', 'rate', 'think', 'peopl', 'go', 'travel', '?', 'doe', ""n't"", 'hurt', 'pricelin', 'though', '.', 'ticket', '$', '250', '$', '50', ',', 'pricelin', 'soar', '.', 'fuck', 'facebook', 'tear', '.', 'lulu', ',', 'cmg', ',', 'greatest', 'hit', 'least', '2', '%', 'gainer', 'appar', 'reason', ',', '``', 'the', 'economi', 'suck', ',', 'more', 'stimulu', ""''"", 'appl', 'announc', 'go', 'give', 'shitti', 'employe', 'appl', 'store', 'rais', 'stock', 'soar', '.', 'i', 'thought', 'pay', 'employe', 'suppos', 'tank', 'stock', 'mean', 'less', 'profit', '.', 'oh', 'yeah', 'i', 'forgot', ',', 'everyon', 'work', 'appl', 'store', 'buy', 'appl', 'shit', ',', 'econom', 'problem', 'solv', '!', '!', '!', '!', 'we', 'never', 'correct', 'fed', 'step', 'buy', 'stock', ',', 'caus', 'momo', 'trader', 'buy', ""n't"", 'miss', 'uptick', 'ralli', '.', 'i', ""'m"", 'fun', 'look', 'parabol', '2', 'day', 'chart', '.', 'it', ""'s"", 'like', 'prais', 'pictur', 'neighbor', 'retard', 'give', '.', 'dammit', '!', 'i', 'miss', '$', '5', 'to', 'the', 'upsid', 'of', 'facebook', ',', 'i', 'got', 'ta', 'buy', 'it', 'now', 'so', 'i', 'do', ""n't"", 'miss', 'the', 'ralli', '!', '!', '!', '!', 'that', 'fundament', 'left', 'market', '.', 'not', 'miss', 'ralli', '.', 'doe', ""n't"", 'matter', ""'s"", 'bullshit', '.', 'at', 'least', 'oil', ""n't"", 'go', '$', '90', 'today', ',', ""n't"", 'matter', 'ga', 'still', 'sell', 'price', 'oil', '$', '105', '.', 'either', 'insid', 'alreadi', 'know', 'qe3', 'go', '$', '2', 'trillion', 'realli', ',', 'realli', ',', 'stupid', '.', 'i', 'still', ""n't"", 'get', 'stock', 'would', 'take', 'money', 'hand', '.', 'would', ""n't"", 'want', 'profit', 'free', 'cash', '?', 'drive', 'stock', 'make', 'expens', 'buy', 'share', 'benni', 'bux', '.', ""''"", '-', 'i', 'tend', 'opinion', 'today', ',', 'although', 'i', 'must', 'admit', 'i', ""'m"", 'bit', 'bias', 'toward', 'bear', 'side', '.', 'at', 'least', 'clear', '$', '15', 'trillion', 'debt', 'thing', 'domest', 'hundr', 'trillion', 'global', 'nomin', 'deriv', '.', 'ca', ""n't"", 'wait', 'wednesday', '.']",[13 19  0 ...  0  0  0],10
+249,8,AAPL Options 'Complacency' Near 2009 Record Highs,8,0,4,,"['aapl', 'option', ""'complac"", ""'"", 'near', '2009', 'record', 'high', 'nan']",[0 0 0 ... 0 0 0],10
+445,6,Can you make money from publishing your own investment research? [x-post from r/investing],9,3,15,"I'm sorry if this post doesn't quite fit in the sub's posting requirement, but with everyone here being more knowledgable and experienced, I figured you guys would be better equipped to answer and also more likely to benefit from an answer.
+
+-------
+
+I've been thinking for a while now about writing a full research report on a couple of the companies that I follow, but I wouldn't want to expend the effort unless it would pay off at the end of the day.
+
+I know about seeking alpha, but that is more for articles than research reports. Is there anything similar for more in depth analysis? I've also kicked around the idea of starting a blog, but I'm not sure about the effort/payoff ratio on that project either.
+","['can', 'make', 'money', 'publish', 'invest', 'research', '?', '[', 'x-post', 'r/invest', ']', 'i', ""'m"", 'sorri', 'post', ""n't"", 'quit', 'fit', 'sub', ""'s"", 'post', 'requir', ',', 'everyon', 'knowledg', 'experienc', ',', 'i', 'figur', 'guy', 'would', 'better', 'equip', 'answer', 'also', 'like', 'benefit', 'answer', '.', '--', '--', '--', '-', 'i', ""'ve"", 'think', 'write', 'full', 'research', 'report', 'coupl', 'compani', 'i', 'follow', ',', 'i', 'would', ""n't"", 'want', 'expend', 'effort', 'unless', 'would', 'pay', 'end', 'day', '.', 'i', 'know', 'seek', 'alpha', ',', 'articl', 'research', 'report', '.', 'is', 'anyth', 'similar', 'depth', 'analysi', '?', 'i', ""'ve"", 'also', 'kick', 'around', 'idea', 'start', 'blog', ',', 'i', ""'m"", 'sure', 'effort/payoff', 'ratio', 'project', 'either', '.']",[5 4 0 ... 0 0 0],5
+394,6,Stock market progress + Need of advice,8,2,14,"http://imgur.com/pDz2UJv
+
+There is this school game with a hypothetical $50k and the player who generates the largest profit wins and able to receive prizes for doing so.
+We are only allowed to purchase Australian companie's stocks.
+
+Above is my current stocks (besides GUD) and the progress from yesterday is as follows:
+
+ARP - $13.00 Buying price (300x) [$3900]
+14 March trading price - 12.95
+
+ANN - $16.42 Buying price
+(306x) [$5024.52]
+14 March trading price - 16.25
+(Lachies fault)
+
+WTF - $4.89 Buying price
+(1220x) [$5965.8]
+14 March trading price - 4.90
+*15 March + (394x) - $5.07
+[$1997.58]
+
+FLT - 33.45 Buying price
+(150x) [$5017.5]
+
+This includes quantity etc. (This has not been updated yet)
+I was wondering if I could get some advice and feedback on my current progress. 
+Thank you so much! 
+If any r/StockMarketer's want to take me under their wing and teach me the ways, I am more than willing","['stock', 'market', 'progress', '+', 'need', 'advic', 'http', ':', '//imgur.com/pdz2ujv', 'there', 'school', 'game', 'hypothet', '$', '50k', 'player', 'gener', 'largest', 'profit', 'win', 'abl', 'receiv', 'prize', '.', 'we', 'allow', 'purchas', 'australian', 'compani', ""'s"", 'stock', '.', 'abov', 'current', 'stock', '(', 'besid', 'gud', ')', 'progress', 'yesterday', 'follow', ':', 'arp', '-', '$', '13.00', 'buy', 'price', '(', '300x', ')', '[', '$', '3900', ']', '14', 'march', 'trade', 'price', '-', '12.95', 'ann', '-', '$', '16.42', 'buy', 'price', '(', '306x', ')', '[', '$', '5024.52', ']', '14', 'march', 'trade', 'price', '-', '16.25', '(', 'lachi', 'fault', ')', 'wtf', '-', '$', '4.89', 'buy', 'price', '(', '1220x', ')', '[', '$', '5965.8', ']', '14', 'march', 'trade', 'price', '-', '4.90', '*', '15', 'march', '+', '(', '394x', ')', '-', '$', '5.07', '[', '$', '1997.58', ']', 'flt', '-', '33.45', 'buy', 'price', '(', '150x', ')', '[', '$', '5017.5', ']', 'thi', 'includ', 'quantiti', 'etc', '.', '(', 'thi', 'updat', 'yet', ')', 'i', 'wonder', 'i', 'could', 'get', 'advic', 'feedback', 'current', 'progress', '.', 'thank', 'much', '!', 'if', 'r/stockmarket', ""'s"", 'want', 'take', 'wing', 'teach', 'way', ',', 'i', 'will']",[1 4 0 ... 0 0 0],5
+981,3,"CNBC preparing to celebrate 13,000",3,0,5,"You would think its some amazing milestone ಠ_ಠ
+
+I really cant see any difference between 12800, 13000 or 13098, but the news headlines are going to milk this for what its worth.
+
+""DOW 13,000!"" about to cross the screen, pop that champagne! lol","['cnbc', 'prepar', 'celebr', '13,000', 'you', 'would', 'think', 'amaz', 'mileston', 'ಠ_ಠ', 'i', 'realli', 'cant', 'see', 'differ', '12800', ',', '13000', '13098', ',', 'news', 'headlin', 'go', 'milk', 'worth', '.', '``', 'dow', '13,000', '!', ""''"", 'cross', 'screen', ',', 'pop', 'champagn', '!', 'lol']",[3 1 0 ... 0 0 0],5
+621,5,Any advice on penny stocks?,5,0,15,"I'm looking to invest in penny stocks, and I'm seeking advice like how much money do I need and how to look for good investment.","['ani', 'advic', 'penni', 'stock', '?', 'i', ""'m"", 'look', 'invest', 'penni', 'stock', ',', 'i', ""'m"", 'seek', 'advic', 'like', 'much', 'money', 'i', 'need', 'look', 'good', 'invest', '.']",[1 1 0 ... 0 0 0],5
+820,3,Short 1660 if we get there? A few reasons why I think we hit resistance.,6,3,4,,"['short', '1660', 'get', '?', 'a', 'reason', 'i', 'think', 'hit', 'resist', '.', 'nan']",[0 1 0 ... 0 0 0],5
+918,3,Marcos Weekly Sentiment Poll (7/2-7/6),3,0,0,"Join in and vote in the weekly sentiment polls on HSM.
+
+http://www.hotstockmarket.com/t/234957/marcos-weekly-sentiment-poll-7-2-7-6","['marco', 'weekli', 'sentiment', 'poll', '(', '7/2-7/6', ')', 'join', 'vote', 'weekli', 'sentiment', 'poll', 'hsm', '.', 'http', ':', '//www.hotstockmarket.com/t/234957/marcos-weekly-sentiment-poll-7-2-7-6']",[0 1 0 ... 0 0 0],5
+137,10,"CEO of Pandora Out, Revenue Surges",12,2,1,,"['ceo', 'pandora', 'out', ',', 'revenu', 'surg', 'nan']",[1 0 0 ... 0 0 0],10
+785,4,DX - Bullish engulfing on the weekly,4,0,1,,"['dx', '-', 'bullish', 'engulf', 'weekli', 'nan']",[0 0 0 ... 0 0 0],5
+357,8,"Hi, I'm a retard. Can anyone explain how to trade / where I can learn more about this / etc? I've had an ING account, but was too afraid to use it. ",8,0,15,"Primarily, I want to use stock trading as a long term savings-account substitute. So, safer the better. I just want to feel like I'm doing Something other than getting 1-2% back a year through savings/CDs. ","['hi', ',', 'i', ""'m"", 'retard', '.', 'can', 'anyon', 'explain', 'trade', '/', 'i', 'learn', '/', 'etc', '?', 'i', ""'ve"", 'ing', 'account', ',', 'afraid', 'use', '.', 'primarili', ',', 'i', 'want', 'use', 'stock', 'trade', 'long', 'term', 'savings-account', 'substitut', '.', 'so', ',', 'safer', 'better', '.', 'i', 'want', 'feel', 'like', 'i', ""'m"", 'someth', 'get', '1-2', '%', 'back', 'year', 'savings/cd', '.']",[4 5 0 ... 0 0 0],10
+777,3,AAPL $720 target by Morgan Stanley,5,2,22,"$720? Is that all? Come on guys.. where are the $1000 targets? Thats only a few days away at this rate.
+
+
+SAN FRANCISCO (MarketWatch) -- Morgan Stanley raised its price target on Apple Inc. to $720 from $515 on Wednesday morning, citing its belief that investors ""still underestimate the earnings potential"" at the consumer electronics giant.","['aapl', '$', '720', 'target', 'morgan', 'stanley', '$', '720', '?', 'is', '?', 'come', 'guy', '..', '$', '1000', 'target', '?', 'that', 'day', 'away', 'rate', '.', 'san', 'francisco', '(', 'marketwatch', ')', '--', 'morgan', 'stanley', 'rais', 'price', 'target', 'appl', 'inc.', '$', '720', '$', '515', 'wednesday', 'morn', ',', 'cite', 'belief', 'investor', '``', 'still', 'underestim', 'earn', 'potenti', ""''"", 'consum', 'electron', 'giant', '.']",[1 2 0 ... 0 0 0],5
+745,4,Fed Out of Bullets? It May Not Matter Either Way,4,0,0,,"['fed', 'out', 'bullet', '?', 'it', 'may', 'not', 'matter', 'either', 'way', 'nan']",[0 0 0 ... 0 0 0],5
+361,7,$NFLX up 2.6% ,8,1,2,"$NFLX breaking resistance, trading well above 50 day moving average. Had an entry point at $90, thinking $93 now. 
+
+http://imgur.com/seMZm
+
+","['$', 'nflx', '2.6', '%', '$', 'nflx', 'break', 'resist', ',', 'trade', 'well', '50', 'day', 'move', 'averag', '.', 'had', 'entri', 'point', '$', '90', ',', 'think', '$', '93', '.', 'http', ':', '//imgur.com/semzm']",[2 2 0 ... 0 0 0],5
+552,5,"Stocks to Watch: WellPoint, Yelp, Joy Global",5,0,0,,"['stock', 'watch', ':', 'wellpoint', ',', 'yelp', ',', 'joy', 'global', 'nan']",[2 0 0 ... 0 0 0],5
+450,8,Is it time to get some FB longs?,10,2,26,,"['is', 'time', 'get', 'fb', 'long', '?', 'nan']",[0 0 0 ... 0 0 0],10
+593,5,With the kind of valuation Facebook is getting on initial offering.  What kind of quarterly earnings are they gonna have to report to keep investors happy.,7,2,2,,"['with', 'kind', 'valuat', 'facebook', 'get', 'initi', 'offer', '.', 'what', 'kind', 'quarterli', 'earn', 'gon', 'na', 'report', 'keep', 'investor', 'happi', '.', 'nan']",[0 2 0 ... 0 0 0],5
+822,1,"IMF Wades Into Fed Exit Debate, Urges No Change Through 2013",5,4,1,,"['imf', 'wade', 'into', 'fed', 'exit', 'debat', ',', 'urg', 'no', 'chang', 'through', '2013', 'nan']",[1 0 0 ... 0 0 0],0
+575,5,My AAPL earnings run play,5,0,4,"Put on a small position today, opened a July 560-565 bull put spread. Return on capital at risk is about 70% as long as AAPL closes above 565 on July 18th.
+
+Earnings date will very likely be on Tuesday July 24th, after July options expiration. This isn't an ER play, but an ER-run up play, as AAPL normally has an EPS expectation run up before earnings day. At some point today I realized we're a bit oversold going into July ER, so the 560-565 put spread was commanding a juicy premium.
+
+As this is a risky trade, I don't recommend it for everyone, and if you go for it, I suggest betting lunch money only.","['my', 'aapl', 'earn', 'run', 'play', 'put', 'small', 'posit', 'today', ',', 'open', 'juli', '560-565', 'bull', 'put', 'spread', '.', 'return', 'capit', 'risk', '70', '%', 'long', 'aapl', 'close', '565', 'juli', '18th', '.', 'earn', 'date', 'like', 'tuesday', 'juli', '24th', ',', 'juli', 'option', 'expir', '.', 'thi', ""n't"", 'er', 'play', ',', 'er-run', 'play', ',', 'aapl', 'normal', 'ep', 'expect', 'run', 'earn', 'day', '.', 'at', 'point', 'today', 'i', 'realiz', ""'re"", 'bit', 'oversold', 'go', 'juli', 'er', ',', '560-565', 'put', 'spread', 'command', 'juici', 'premium', '.', 'as', 'riski', 'trade', ',', 'i', ""n't"", 'recommend', 'everyon', ',', 'go', ',', 'i', 'suggest', 'bet', 'lunch', 'money', '.']",[8 6 0 ... 0 0 0],5
+865,3,Sandy Death Toll Continues to Mount as US East Coast Struggles to Recover - IBTimes UK,3,0,0,,"['sandi', 'death', 'toll', 'continu', 'mount', 'us', 'east', 'coast', 'struggl', 'recov', '-', 'ibtim', 'uk', 'nan']",[0 0 0 ... 0 0 0],5
+868,3,Tyco to Pay $27M - Tokushima Worldwide.,8,5,0,,"['tyco', 'pay', '$', '27m', '-', 'tokushima', 'worldwid', '.', 'nan']",[0 1 0 ... 0 0 0],5
+78,13,Programs for viewing Stock Charts.,13,0,10,"What does everyone prefer:
+Are all the resources to view stock charts and indexes online and in browser, or are there programs that people can download to view charts?
+Thanks! ","['program', 'view', 'stock', 'chart', '.', 'what', 'everyon', 'prefer', ':', 'are', 'resourc', 'view', 'stock', 'chart', 'index', 'onlin', 'browser', ',', 'program', 'peopl', 'download', 'view', 'chart', '?', 'thank', '!']",[1 1 0 ... 0 0 0],15
+29,19,AAPL -6% AH on earnings,21,2,11,,"['aapl', '-6', '%', 'ah', 'earn', 'nan']",[0 0 0 ... 0 0 0],20
+420,7,AONE  to seek bankruptcy protection,7,0,1,,"['aon', 'seek', 'bankruptci', 'protect', 'nan']",[0 0 0 ... 0 0 0],5
+704,5,BBY gearing up for a buyout?,6,1,9,"Option activity showed some speculation that something happens in Sept with BBY - CNBC
+
+Stock spiked higher this morning but now pulling back.","['bbi', 'gear', 'buyout', '?', 'option', 'activ', 'show', 'specul', 'someth', 'happen', 'sept', 'bbi', '-', 'cnbc', 'stock', 'spike', 'higher', 'morn', 'pull', 'back', '.']",[0 1 0 ... 0 0 0],5
+247,7,Mark's Weekly Trading Log!,10,3,8,,"['mark', ""'s"", 'weekli', 'trade', 'log', '!', 'nan']",[0 0 0 ... 0 0 0],5
+793,5,Dow divergence vs Transports,6,1,3,,"['dow', 'diverg', 'vs', 'transport', 'nan']",[0 0 0 ... 0 0 0],5
+281,9,Here's proof that Bernanke's news conferences impact the market: Deutsche Bank - The Tell,10,1,0,,"['here', ""'s"", 'proof', 'bernank', ""'s"", 'news', 'confer', 'impact', 'market', ':', 'deutsch', 'bank', '-', 'the', 'tell', 'nan']",[0 0 0 ... 0 0 0],10
+165,9,"In Rare Move, SEC Reverses Nasdaq's Delisting Of Chinese Company - Forbes",10,1,1,,"['in', 'rare', 'move', ',', 'sec', 'revers', 'nasdaq', ""'s"", 'delist', 'of', 'chines', 'compani', '-', 'forb', 'nan']",[1 0 0 ... 0 0 0],10
+558,7,Groupon's Stock Trading Course...LOL,10,3,5,,"['groupon', ""'s"", 'stock', 'trade', 'cours', '...', 'lol', 'nan']",[0 0 0 ... 0 0 0],5
+486,5,$SPY: Finding Potential Inflection with Calculus,10,5,6,,"['$', 'spi', ':', 'find', 'potenti', 'inflect', 'calculu', 'nan']",[0 0 0 ... 0 0 0],5
+451,6,Futures hitting 1314 in early morning trading.,7,1,9,,"['futur', 'hit', '1314', 'earli', 'morn', 'trade', '.', 'nan']",[0 1 0 ... 0 0 0],5
+65,14,Selling Weekly Options Puts for Income - Another AAPL Trade,15,1,32,,"['sell', 'weekli', 'option', 'put', 'incom', '-', 'anoth', 'aapl', 'trade', 'nan']",[0 0 0 ... 0 0 0],15
+141,9,Apple Inc. (AAPL) shares declined the most in almost four years yesterday on concern that the company will lose ground in smartphones to Nokia Oyj (NOK1V) in China while giving up market share to Google Inc. (GOOG) in tablets.,12,3,2,,"['appl', 'inc.', '(', 'aapl', ')', 'share', 'declin', 'almost', 'four', 'year', 'yesterday', 'concern', 'compani', 'lose', 'ground', 'smartphon', 'nokia', 'oyj', '(', 'nok1v', ')', 'china', 'give', 'market', 'share', 'googl', 'inc.', '(', 'goog', ')', 'tablet', '.', 'nan']",[0 1 0 ... 0 0 0],10
+685,4,S&amp;P setting up for a Wave 5 final push?,6,2,23,,"['s', '&', 'amp', ';', 'p', 'set', 'wave', '5', 'final', 'push', '?', 'nan']",[0 0 0 ... 0 0 0],5
