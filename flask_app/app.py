@@ -190,6 +190,7 @@ def do_transaction():
     form = TransactionForm()
 
     if form.validate_on_submit():
+        # TODO refactor these conditionals to be their negation and return. will reduce nesting and improve readability
         if check_ticker_is_valid(form.ticker.data):
             if check_rationality(form.current_mood.data):
                 if check_rationality(form.reasoning.data):
