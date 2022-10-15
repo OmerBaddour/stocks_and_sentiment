@@ -237,7 +237,7 @@ def do_transaction():
 
                     if check_portfolio_risk(
                         calculate_portfolio_risk(
-                            current_portfolio,
+                            next_portfolio,
                             cache,
                             os.getenv("REDDIT_CLIENT_ID"),
                             os.getenv("REDDIT_CLIENT_SECRET"),
